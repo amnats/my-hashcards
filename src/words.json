@@ -1,0 +1,1157 @@
+[
+  {
+    "id": 175009884,
+    "word": "der Inhalt",
+    "translation": "содержание"
+  },
+  {
+    "id": 174379513,
+    "word": "die Ersatzteile",
+    "translation": "детали, запчасти"
+  },
+  {
+    "id": 174375383,
+    "word": "reparabel",
+    "translation": "ремонтируемый"
+  },
+  {
+    "id": 174369281,
+    "word": "die Aktion, die Aktionen",
+    "translation": "акция"
+  },
+  {
+    "id": 174369280,
+    "word": "der Babysitter, die Babysitter",
+    "translation": "няня (мужчина)"
+  },
+  {
+    "id": 174369279,
+    "word": "die Bücherei, die Büchereien",
+    "translation": "библиотека"
+  },
+  {
+    "id": 174369278,
+    "word": "existieren, existierte, hat existiert",
+    "translation": "существовать"
+  },
+  {
+    "id": 174369277,
+    "word": "der/die Freiwillige, die Freiwilligen",
+    "translation": "волонтёр"
+  },
+  {
+    "id": 174369276,
+    "word": "der PC, die PCs",
+    "translation": "компьютер"
+  },
+  {
+    "id": 174369275,
+    "word": "putzen, putzte, hat geputzt",
+    "translation": "убирать, чистить"
+  },
+  {
+    "id": 174369274,
+    "word": "das Repair-Café",
+    "translation": "\"Ремонтное кафе\""
+  },
+  {
+    "id": 174369273,
+    "word": "die Reparatur, die Reparaturen",
+    "translation": "ремонт, починка"
+  },
+  {
+    "id": 174369272,
+    "word": "reparieren, reparierte, hat repariert",
+    "translation": "ремонтировать, чинить"
+  },
+  {
+    "id": 174369271,
+    "word": "der Senior, die Senioren",
+    "translation": "пожилой мужчина, человек \"в возрасте\", пенсионер"
+  },
+  {
+    "id": 174369270,
+    "word": "der Service, die Services",
+    "translation": "сервис, обслуживание"
+  },
+  {
+    "id": 174369269,
+    "word": "Geschirr spülen, spülte, hat gespült",
+    "translation": "мыть посуду"
+  },
+  {
+    "id": 174369268,
+    "word": "starten, startete, hat gestartet",
+    "translation": "стартовать"
+  },
+  {
+    "id": 174369267,
+    "word": "voneinander",
+    "translation": "друг у друга"
+  },
+  {
+    "id": 174369266,
+    "word": "wegwerfen, er wirft weg, hat weggeworfen",
+    "translation": "выбрасывать"
+  },
+  {
+    "id": 174369265,
+    "word": "das Werkzeug, die Werkzeuge",
+    "translation": "инструмент"
+  },
+  {
+    "id": 174369264,
+    "word": "zusammenbringen, brachte zusammen, hat zusammengebracht",
+    "translation": "собирать вместе, сводить вместе"
+  },
+  {
+    "id": 174368147,
+    "word": "klauen",
+    "translation": "красть"
+  },
+  {
+    "id": 173692449,
+    "word": "ausländisch",
+    "translation": "иностранный"
+  },
+  {
+    "id": 173692448,
+    "word": "der Autor, die Autoren",
+    "translation": "автор"
+  },
+  {
+    "id": 173692447,
+    "word": "begleiten, begleitet, hat begleitet",
+    "translation": "сопровождать, провожать"
+  },
+  {
+    "id": 173692446,
+    "word": "dazulernen",
+    "translation": "изучать что-то новое"
+  },
+  {
+    "id": 173692445,
+    "word": "dolmetschen",
+    "translation": "переводить (устно)"
+  },
+  {
+    "id": 173692444,
+    "word": "faszinieren, faszinierte, hat fasziniert",
+    "translation": "восхищать"
+  },
+  {
+    "id": 173692443,
+    "word": "das Feedback, die Feedbacks",
+    "translation": "отзыв, фидбэк"
+  },
+  {
+    "id": 173692442,
+    "word": "die Figur, die Figuren",
+    "translation": "фигура"
+  },
+  {
+    "id": 173692441,
+    "word": "freiberuflich",
+    "translation": "работающий не по найму, на гонорарной основе"
+  },
+  {
+    "id": 173692440,
+    "word": "der Gebärdendolmetscher, die Gebärdendolmetscher",
+    "translation": "сурдопереводчик"
+  },
+  {
+    "id": 173692439,
+    "word": "das Gebärdentelefon, die Gebärdentelefone",
+    "translation": "служба телефонной связи для глухонемых"
+  },
+  {
+    "id": 173692438,
+    "word": "Feedback geben",
+    "translation": "оставлять отзыв"
+  },
+  {
+    "id": 173692437,
+    "word": "gehörlos",
+    "translation": "глухой"
+  },
+  {
+    "id": 173692436,
+    "word": "der/die Gehörlose, die Gehörlosen",
+    "translation": "глухонемой/глухонемая"
+  },
+  {
+    "id": 173692435,
+    "word": "der Gesprächspartner, die Gesprächspartner",
+    "translation": "собеседник"
+  },
+  {
+    "id": 173692434,
+    "word": "der Katalog, die Kataloge",
+    "translation": "каталог"
+  },
+  {
+    "id": 173692433,
+    "word": "die Kommunikation (Sg.)",
+    "translation": "коммуникация"
+  },
+  {
+    "id": 173692432,
+    "word": "kommunizieren, kommunizierte, hat kommuniziert",
+    "translation": "коммуницировать, общаться"
+  },
+  {
+    "id": 173692431,
+    "word": "die Konferenz, die Konferenzen",
+    "translation": "конференция"
+  },
+  {
+    "id": 173692430,
+    "word": "lang (eine Zeit lang)",
+    "translation": "длинный, протяжённый, в течение (на некоторое время)"
+  },
+  {
+    "id": 173692429,
+    "word": "der/die Lernende, die Lernenden",
+    "translation": "учащийся/учащаяся"
+  },
+  {
+    "id": 173692428,
+    "word": "die Mitternacht (Sg.) (um Mitternacht)",
+    "translation": "полночь (в полночь)"
+  },
+  {
+    "id": 173692427,
+    "word": "der Prospekt, die Prospekte",
+    "translation": "проспект (буклет)"
+  },
+  {
+    "id": 173692426,
+    "word": "sorgen für + Akk., sorgte, hat gesorgt",
+    "translation": "заботиться о чём-либо, ком-либо"
+  },
+  {
+    "id": 173692425,
+    "word": "das Sprachenlernen (Sg.)",
+    "translation": "изучения языка"
+  },
+  {
+    "id": 173692424,
+    "word": "die Sprachwissenschaft, die Sprachwissenschaften",
+    "translation": "лингвистика, языкознание"
+  },
+  {
+    "id": 173692423,
+    "word": "das Standesamt, die Standesämter",
+    "translation": "ЗАГС"
+  },
+  {
+    "id": 173692422,
+    "word": "stundenweise",
+    "translation": "по часам, почасовой (об оплате)"
+  },
+  {
+    "id": 173692421,
+    "word": "die Vollzeit (Sg.)",
+    "translation": "работа на полную ставку"
+  },
+  {
+    "id": 173692420,
+    "word": "weitergeben, gab weiter, hat weitergegeben",
+    "translation": "передавать"
+  },
+  {
+    "id": 173692419,
+    "word": "wohl (Ich überlege, wie es dir wohl geht.)",
+    "translation": "пожалуй, вероятно, наверное, здесь: что ли (разг.) (Я думаю о том, как у тебя что ли дела.)"
+  },
+  {
+    "id": 173691340,
+    "word": "die Beratung, die Beratungen",
+    "translation": "консультация"
+  },
+  {
+    "id": 173691339,
+    "word": "bieten, er bietet, hat geboten",
+    "translation": "предлагать"
+  },
+  {
+    "id": 173691338,
+    "word": "direkt (Komm direkt zu uns!)",
+    "translation": "прямо (Приходи прямо к нам!)"
+  },
+  {
+    "id": 173691337,
+    "word": "einzeln",
+    "translation": "единственный, индивидуальный"
+  },
+  {
+    "id": 173691336,
+    "word": "erfahren (Mein Chef ist sehr erfahren.)",
+    "translation": "опытный (Мой начальник – очень опытный.)"
+  },
+  {
+    "id": 173691335,
+    "word": "erforderlich",
+    "translation": "успешный"
+  },
+  {
+    "id": 173691334,
+    "word": "die Förderung, die Förderungen",
+    "translation": "помощь, поддержка, содействие"
+  },
+  {
+    "id": 173691333,
+    "word": "das Interesse, die Interessen",
+    "translation": "интерес"
+  },
+  {
+    "id": 173691332,
+    "word": "die Mailbox",
+    "translation": "ящик голосовой почты"
+  },
+  {
+    "id": 173691331,
+    "word": "die Mitteilung, die Mitteilungen",
+    "translation": "сообщение (смс или голосовое)"
+  },
+  {
+    "id": 173691330,
+    "word": "mündlich",
+    "translation": "устный"
+  },
+  {
+    "id": 173691329,
+    "word": "neugierig",
+    "translation": "любопытный"
+  },
+  {
+    "id": 173691328,
+    "word": "schriftlich",
+    "translation": "письменный"
+  },
+  {
+    "id": 173691327,
+    "word": "das Sekretariat, die Sekretariate",
+    "translation": "секретариат"
+  },
+  {
+    "id": 173691326,
+    "word": "die Sprechstunde, die Sprechstunden",
+    "translation": "приемные часы"
+  },
+  {
+    "id": 173691325,
+    "word": "stressfrei",
+    "translation": "без стрессов"
+  },
+  {
+    "id": 173691324,
+    "word": "der Workshop, die Workshops",
+    "translation": "семинар"
+  },
+  {
+    "id": 173689577,
+    "word": "das Mineralwasser, die Mineralwasser",
+    "translation": "минеральная вода"
+  },
+  {
+    "id": 173689576,
+    "word": "die Nervosität (Sg.)",
+    "translation": "нервозность"
+  },
+  {
+    "id": 173689575,
+    "word": "die Portion, die Portionen",
+    "translation": "порция"
+  },
+  {
+    "id": 173689574,
+    "word": "der/die Prüfende, die Prüfenden",
+    "translation": "экзаменатор"
+  },
+  {
+    "id": 173689573,
+    "word": "der Prüfer, die Prüfer",
+    "translation": "экзаменатор"
+  },
+  {
+    "id": 173689572,
+    "word": "tief",
+    "translation": "глубоко"
+  },
+  {
+    "id": 173689571,
+    "word": "der Trick, die Tricks",
+    "translation": "трюк, фишка"
+  },
+  {
+    "id": 173689570,
+    "word": "unternehmen mit + Dat., er unternahm, hat unternommen",
+    "translation": "предпринимать"
+  },
+  {
+    "id": 173689569,
+    "word": "übrigens",
+    "translation": "кстати, впрочем"
+  },
+  {
+    "id": 173689568,
+    "word": "verplanen, verplante, hat verplant",
+    "translation": "неправильно спланировать"
+  },
+  {
+    "id": 173689567,
+    "word": "der Wald, die Wälder",
+    "translation": "лес"
+  },
+  {
+    "id": 173689566,
+    "word": "die Zitrone, die Zitronen",
+    "translation": "лимон"
+  },
+  {
+    "id": 173689565,
+    "word": "zurechtkommen, er kommt zurecht, ist zurechtgekommen",
+    "translation": "справляться (с чем-то)"
+  },
+  {
+    "id": 173689564,
+    "word": "der Ratschlag, die Ratschläge",
+    "translation": "совет"
+  },
+  {
+    "id": 173689563,
+    "word": "einplanen, plante ein, hat eingeplant",
+    "translation": "запланировать"
+  },
+  {
+    "id": 173689562,
+    "word": "geben, er gibt, hat gegeben (einen Ratschlag geben)",
+    "translation": "давать (дать совет)"
+  },
+  {
+    "id": 172856010,
+    "word": "durchatmen, atmete durch, hat durchgeatmet",
+    "translation": "глубоко дышать, дышать полной грудью"
+  },
+  {
+    "id": 172856009,
+    "word": "die Energie, die Energien",
+    "translation": "энергия"
+  },
+  {
+    "id": 172856008,
+    "word": "fett",
+    "translation": "жирный"
+  },
+  {
+    "id": 172856007,
+    "word": "freimachen, machte frei, hat freigemacht",
+    "translation": "освободить"
+  },
+  {
+    "id": 172856006,
+    "word": "lassen, er lässt, ließ, hat gelassen (Lass freie Zeiten in deinem Lernplan.)",
+    "translation": "оставлять (Оставь свободное время в твоем расписании.)"
+  },
+  {
+    "id": 172856005,
+    "word": "der Lernhelfer, die Lernhelfer",
+    "translation": "репетитор, помощник в учебе"
+  },
+  {
+    "id": 172853244,
+    "word": "die Abschlussarbeit",
+    "translation": "дипломная работа"
+  },
+  {
+    "id": 172849529,
+    "word": "schaffen",
+    "translation": "справиться с чем-то"
+  },
+  {
+    "id": 172844697,
+    "word": "die Abschlussprüfung, die Abschlussprüfungen",
+    "translation": "итоговый экзамен"
+  },
+  {
+    "id": 172844696,
+    "word": "blicken, blickte, hat geblickt",
+    "translation": "глядеть, смотреть, здесь: в переносном значении \"понимать\""
+  },
+  {
+    "id": 172844695,
+    "word": "checken (Wie funktioniert das? Ich check's nicht!)",
+    "translation": "понимать (Как это работает? Я не понимаю!)"
+  },
+  {
+    "id": 172844694,
+    "word": "die Fahrstunde, die Fahrstunden",
+    "translation": "урок вождения"
+  },
+  {
+    "id": 172844693,
+    "word": "das Forum, die Foren",
+    "translation": "форум"
+  },
+  {
+    "id": 172844692,
+    "word": "die Hälfte, die Hälften",
+    "translation": "половина"
+  },
+  {
+    "id": 172844691,
+    "word": "hart",
+    "translation": "суровый, тяжёлый"
+  },
+  {
+    "id": 172844690,
+    "word": "das Herz, die Herzen",
+    "translation": "сердце"
+  },
+  {
+    "id": 172844689,
+    "word": "intelligent",
+    "translation": "развитый, интеллектуальный, умный"
+  },
+  {
+    "id": 172844688,
+    "word": "kapieren, kapierte, hat kapiert",
+    "translation": "понимать (разг.)"
+  },
+  {
+    "id": 172844687,
+    "word": "klug",
+    "translation": "умный"
+  },
+  {
+    "id": 172844686,
+    "word": "die Magenschmerzen (Pl.)",
+    "translation": "боли в желудке"
+  },
+  {
+    "id": 172844685,
+    "word": "rasen, raste, hat/ist gerast",
+    "translation": "(бешено) мчаться, нестись, здесь: сильно колотиться"
+  },
+  {
+    "id": 172844684,
+    "word": "realistisch",
+    "translation": "реалистичный"
+  },
+  {
+    "id": 172844683,
+    "word": "das Stipendium, die Stipendien",
+    "translation": "стипендия"
+  },
+  {
+    "id": 172844682,
+    "word": "der Stoff, die Stoffe",
+    "translation": "материал"
+  },
+  {
+    "id": 172844681,
+    "word": "tagsüber",
+    "translation": "днем"
+  },
+  {
+    "id": 172844680,
+    "word": "der Zeitplan, die Zeitpläne",
+    "translation": "расписание"
+  },
+  {
+    "id": 172844679,
+    "word": "das Lernproblem, die Lernprobleme",
+    "translation": "трудность/проблема в обучении"
+  },
+  {
+    "id": 172844678,
+    "word": "verschieben, verschob, hat verschoben",
+    "translation": "переносить"
+  },
+  {
+    "id": 172844677,
+    "word": "damit (Ein Paket? Was machst du damit?)",
+    "translation": "этим, с этим (Посылка? Что ты с этим будешь делать?)"
+  },
+  {
+    "id": 172844676,
+    "word": "weiterarbeiten, arbeitete weiter, hat weitergearbeitet",
+    "translation": "продолжать работать"
+  },
+  {
+    "id": 172842999,
+    "word": "die Unterlagen",
+    "translation": "документы"
+  },
+  {
+    "id": 172841605,
+    "word": "notwendig",
+    "translation": "необходимый"
+  },
+  {
+    "id": 172841540,
+    "word": "weiterwissen, er weiß weiter, wusste weiter, hat weitergewusst",
+    "translation": "знать, как поступить дальше"
+  },
+  {
+    "id": 172841451,
+    "word": "pensioniert",
+    "translation": "на пенсии"
+  },
+  {
+    "id": 172841445,
+    "word": "sowieso",
+    "translation": "в любом случае, так или иначе"
+  },
+  {
+    "id": 172841388,
+    "word": "prima",
+    "translation": "отличный, классный"
+  },
+  {
+    "id": 172841386,
+    "word": "die Qualität, die Qualitäten",
+    "translation": "качество"
+  },
+  {
+    "id": 172841371,
+    "word": "die Rente, die Renten",
+    "translation": "пенсия"
+  },
+  {
+    "id": 172841082,
+    "word": "rechtzeitig",
+    "translation": "вовремя"
+  },
+  {
+    "id": 172248172,
+    "word": "das Instrument, -e",
+    "translation": "инструмент"
+  },
+  {
+    "id": 172248171,
+    "word": "der Kanal, \"-e",
+    "translation": "канал"
+  },
+  {
+    "id": 172248170,
+    "word": "das Klavier, -e",
+    "translation": "пианино"
+  },
+  {
+    "id": 172248169,
+    "word": "kompliziert",
+    "translation": "сложный"
+  },
+  {
+    "id": 172248168,
+    "word": "der Kursleiter, -",
+    "translation": "преподаватель курса"
+  },
+  {
+    "id": 172248167,
+    "word": "die Menge, -n",
+    "translation": "масса, большое количество"
+  },
+  {
+    "id": 171882651,
+    "word": "Das ist sehr hübsch/schick/elegant.",
+    "translation": "Симпатичная, красивая, элегантная вещь."
+  },
+  {
+    "id": 171882650,
+    "word": "Die Qualität ist gut.",
+    "translation": "Хорошее качество."
+  },
+  {
+    "id": 171882649,
+    "word": "Das ist ein toller Preis!",
+    "translation": "Прекрасная цена!"
+  },
+  {
+    "id": 171882648,
+    "word": "Ich bin sehr zufrieden mit meinem Kauf.",
+    "translation": "Я очень доволен покупкой."
+  },
+  {
+    "id": 171882647,
+    "word": "Ich komme gerne wieder.",
+    "translation": "Я с удовольствием приду еще раз."
+  },
+  {
+    "id": 171882646,
+    "word": "Haben Sie vielleicht einen Rabatt für mich?",
+    "translation": "Может быть у Вас есть для меня скидка?"
+  },
+  {
+    "id": 171882645,
+    "word": "Ich suche etwas für eine Hochzeit/ein Vorstellungsgespräch/den Alltag.",
+    "translation": "Мне нужно что-то для свадьбы/собеседования/повседневного ношения."
+  },
+  {
+    "id": 171830289,
+    "word": "Ich nehme das Kleid/den Pullover/die Schuhe.",
+    "translation": "Я беру..."
+  },
+  {
+    "id": 171830288,
+    "word": "Ich möchte das gerne kaufen.",
+    "translation": "Я бы хотел купить эту вещь."
+  },
+  {
+    "id": 171830287,
+    "word": "Ich brauche noch eine Tüte, bitte.",
+    "translation": "Мне нужен еще один пакет, пожалуйста."
+  },
+  {
+    "id": 171830286,
+    "word": "Können Sie mir das einpacken?",
+    "translation": "Не могли бы Вы все упаковать?"
+  },
+  {
+    "id": 171830285,
+    "word": "Ich bezahle bar/mit Karte.",
+    "translation": "Плачу наличными/картой."
+  },
+  {
+    "id": 171830284,
+    "word": "Ich hätte gerne den Kassenbon.",
+    "translation": "Чек, пожалуйста."
+  },
+  {
+    "id": 171830214,
+    "word": "Darf ich das Kleid/den Rock/die Schuhe anprobieren?",
+    "translation": "Могу ли я примерить..."
+  },
+  {
+    "id": 171830213,
+    "word": "Wo ist die Umkleide/Anprobe?",
+    "translation": "Где примерочная?"
+  },
+  {
+    "id": 171830212,
+    "word": "Passt mir das gut?",
+    "translation": "Идет ли мне...?"
+  },
+  {
+    "id": 171830161,
+    "word": "Entschuldigung, ich suche eine Jeans/ein Kleid/einen Pullover.",
+    "translation": "Извините, я ищу/мне нужны..."
+  },
+  {
+    "id": 171830160,
+    "word": "Haben Sie diese Hose auch in Größe M?",
+    "translation": "Есть ли у Вас эти брюки размера М?"
+  },
+  {
+    "id": 171830159,
+    "word": "Ich suche etwas Ähnliches wie dieses Shirt, aber in einer anderen Farbe.",
+    "translation": "Я ищу что-то похожее на эту футболку, но другого цвета."
+  },
+  {
+    "id": 171830158,
+    "word": "Wo finde ich die Accessoires?",
+    "translation": "Где можно найти аксессуары?"
+  },
+  {
+    "id": 171825483,
+    "word": "Gleich hier vorne",
+    "translation": "Right here in front"
+  },
+  {
+    "id": 171825158,
+    "word": "ziemlich",
+    "translation": "quite"
+  },
+  {
+    "id": 171818425,
+    "word": "auswendig",
+    "translation": "наизусть"
+  },
+  {
+    "id": 171817101,
+    "word": "die Waage",
+    "translation": "весы"
+  },
+  {
+    "id": 171815912,
+    "word": "Entschuldigung, wo ist die Kasse?",
+    "translation": "Извините, а где здесь касса?"
+  },
+  {
+    "id": 171815911,
+    "word": "Haben Sie auch...? (z.B. Duschgel)",
+    "translation": "Есть ли у Вас также...?"
+  },
+  {
+    "id": 171815910,
+    "word": "Wo finde ich...? (z.B. die Tiefkühlkost)",
+    "translation": "Где я могу найти...?"
+  },
+  {
+    "id": 171815909,
+    "word": "Haben Sie...?",
+    "translation": "Есть ли у Вас...?"
+  },
+  {
+    "id": 171815908,
+    "word": "Ist das reduziert?",
+    "translation": "Это по скидке?"
+  },
+  {
+    "id": 171815907,
+    "word": "Ist das im Angebot?",
+    "translation": "Это по скидке?"
+  },
+  {
+    "id": 171815906,
+    "word": "Kann ich den Artikel umtauschen?",
+    "translation": "Могу ли я поменять товар?"
+  },
+  {
+    "id": 171815905,
+    "word": "Haben Sie den Kassenbon noch?",
+    "translation": "Вы сохранили чек?"
+  },
+  {
+    "id": 171815904,
+    "word": "Darf es noch etwas sein?",
+    "translation": "Что-то еще?"
+  },
+  {
+    "id": 171815903,
+    "word": "Wo kann ich das (z.B. die Tomaten) wiegen?",
+    "translation": "Где я могу взвесить?"
+  },
+  {
+    "id": 171815786,
+    "word": "Hallo/Guten Tag, das macht dann...",
+    "translation": "Здравствуйте! С Вас..."
+  },
+  {
+    "id": 171815785,
+    "word": "Kann ich mit Karte/ (Kreditkarte/EC-Karte) zahlen?",
+    "translation": "Могу ли я оплатить картой?"
+  },
+  {
+    "id": 171815784,
+    "word": "Haben Sie auch Kartenzahlung?",
+    "translation": "У Вас можно платить картой?"
+  },
+  {
+    "id": 171815783,
+    "word": "Stimmt so, danke.",
+    "translation": "Сдачи не надо, спасибо."
+  },
+  {
+    "id": 171815650,
+    "word": "die Schlange",
+    "translation": "очередь"
+  },
+  {
+    "id": 171815649,
+    "word": "in der Schlange stehen",
+    "translation": "стоять в очереди"
+  },
+  {
+    "id": 171815648,
+    "word": "Stehen Sie an?",
+    "translation": "Вы стоите?"
+  },
+  {
+    "id": 171815647,
+    "word": "Darf ich...?",
+    "translation": "Могу ли я...?"
+  },
+  {
+    "id": 171815646,
+    "word": "Einen Moment bitte. Ich komme gleich wieder.",
+    "translation": "Минутку. Я сейчас приду."
+  },
+  {
+    "id": 171815645,
+    "word": "Gehen Sie vor.",
+    "translation": "Проходите. (Когда уступают место в очереди)"
+  },
+  {
+    "id": 171174225,
+    "word": "die Innenstadt, die Innenstädte",
+    "translation": "центр города"
+  },
+  {
+    "id": 171174224,
+    "word": "die Kombination, die Kombinationen",
+    "translation": "сочетание, комбинация"
+  },
+  {
+    "id": 171174223,
+    "word": "die Konsequenz, die Konsequenzen",
+    "translation": "последствие, вывод"
+  },
+  {
+    "id": 171174222,
+    "word": "die Linie, die Linien",
+    "translation": "линия"
+  },
+  {
+    "id": 171174221,
+    "word": "lösen, löste, hat gelöst",
+    "translation": "решать (напр. проблему)"
+  },
+  {
+    "id": 171174220,
+    "word": "der Lösungsvorschlag, die Lösungsvorschläge",
+    "translation": "решение проблемы"
+  },
+  {
+    "id": 171174219,
+    "word": "die Luft (Sg.)",
+    "translation": "воздух"
+  },
+  {
+    "id": 171174218,
+    "word": "das Prozent, die Prozente",
+    "translation": "процент"
+  },
+  {
+    "id": 171174217,
+    "word": "der Radfahrer, die Radfahrer",
+    "translation": "велосипедист"
+  },
+  {
+    "id": 171174216,
+    "word": "der Radweg, die Radwege",
+    "translation": "велосипедная дорожка"
+  },
+  {
+    "id": 171174215,
+    "word": "reduzieren, reduzierte, hat reduziert",
+    "translation": "снижать"
+  },
+  {
+    "id": 171174214,
+    "word": "die Seilbahn, die Seilbahnen",
+    "translation": "канатная дорога"
+  },
+  {
+    "id": 171174213,
+    "word": "sich setzen, setzte sich, hat sich gesetzt",
+    "translation": "садиться"
+  },
+  {
+    "id": 171174212,
+    "word": "der Stadtbewohner, die Stadtbewohner",
+    "translation": "житель города"
+  },
+  {
+    "id": 171174211,
+    "word": "umweltfreundlich",
+    "translation": "экологически чистый"
+  },
+  {
+    "id": 171174210,
+    "word": "die Untersuchung, die Untersuchungen",
+    "translation": "исследование"
+  },
+  {
+    "id": 171174209,
+    "word": "das Verkehrsproblem, die Verkehrsprobleme",
+    "translation": "проблема транспорта"
+  },
+  {
+    "id": 171174208,
+    "word": "zeigen, zeigte, hat gezeigt (Untersuchungen zeigen, dass …)",
+    "translation": "показывать (Исследования показывают, что …)"
+  },
+  {
+    "id": 171174207,
+    "word": "allgemein",
+    "translation": "общий"
+  },
+  {
+    "id": 171174206,
+    "word": "dafür sein",
+    "translation": "быть за (что-то, кого-то)"
+  },
+  {
+    "id": 171174205,
+    "word": "dagegen sein",
+    "translation": "быть против (что-то, кого-то)"
+  },
+  {
+    "id": 171174204,
+    "word": "gegen + Akk. (Ich bin gegen Autos im Stadtzentrum.)",
+    "translation": "против, от (Я против автомобилей в центре города.)"
+  },
+  {
+    "id": 171174203,
+    "word": "die Meinung, die Meinungen (Ich bin der Meinung, dass …)",
+    "translation": "мнение (Я придерживаюсь мнения, что …)"
+  },
+  {
+    "id": 171174202,
+    "word": "sinnvoll",
+    "translation": "целесообразный"
+  },
+  {
+    "id": 171174201,
+    "word": "unpraktisch",
+    "translation": "непрактичный"
+  },
+  {
+    "id": 170580243,
+    "word": "die PIN, die PINs",
+    "translation": "ПИН"
+  },
+  {
+    "id": 170580242,
+    "word": "sich registrieren bei + Dat., registrierte sich, hat sich registriert",
+    "translation": "регистрироваться"
+  },
+  {
+    "id": 170580241,
+    "word": "der Tarif, die Tarife",
+    "translation": "тариф"
+  },
+  {
+    "id": 170580240,
+    "word": "die Werbung, die Werbungen",
+    "translation": "реклама"
+  },
+  {
+    "id": 170580239,
+    "word": "abstellen, stellte ab, hat abgestellt",
+    "translation": "оставлять (что-то где-то), здесь: парковать"
+  },
+  {
+    "id": 170580238,
+    "word": "direkt (ein direkter Fragesatz)",
+    "translation": "прямой (прямое вопросительное предложение)"
+  },
+  {
+    "id": 170580237,
+    "word": "erreichen, erreichte, hat erreicht",
+    "translation": "достигать, заставать (кого-то), связываться с (кем-то)"
+  },
+  {
+    "id": 170580236,
+    "word": "die Fahrt, die Fahrten",
+    "translation": "поездка"
+  },
+  {
+    "id": 170580235,
+    "word": "die Kaution, die Kautionen",
+    "translation": "залог, обеспечительный взнос (при аренде помещения)"
+  },
+  {
+    "id": 170580234,
+    "word": "der Kundenservice, die Kundenservices",
+    "translation": "сервис для клиентов"
+  },
+  {
+    "id": 170580233,
+    "word": "nötig",
+    "translation": "необходимый, требуемый"
+  },
+  {
+    "id": 170580232,
+    "word": "ob (Ich möchte gern wissen, ob ich das Auto überall abstellen kann.)",
+    "translation": "ли (Я хотел бы узнать, могу ли я припарковать машину где угодно.)"
+  },
+  {
+    "id": 170580231,
+    "word": "telefonisch",
+    "translation": "по телефону"
+  },
+  {
+    "id": 170580230,
+    "word": "unterschiedlich",
+    "translation": "различно, различный"
+  },
+  {
+    "id": 170580229,
+    "word": "versichert",
+    "translation": "застрахованный"
+  },
+  {
+    "id": 170580228,
+    "word": "schon mal",
+    "translation": "уже хоть раз"
+  },
+  {
+    "id": 170580227,
+    "word": "das Konzept, die Konzepte",
+    "translation": "концепт"
+  },
+  {
+    "id": 169850046,
+    "word": "halten, hielt, hat gehalten",
+    "translation": "останавливаться"
+  },
+  {
+    "id": 169850045,
+    "word": "die Ampel, die Ampeln",
+    "translation": "светофор"
+  },
+  {
+    "id": 169850044,
+    "word": "vorhaben, hatte vor, hat vorgehabt",
+    "translation": "собираться что-то сделать, планировать"
+  },
+  {
+    "id": 169850043,
+    "word": "versprechen, versprach, hat versprochen",
+    "translation": "обещать"
+  },
+  {
+    "id": 169850041,
+    "word": "Du bist ganz schön schnell!",
+    "translation": "Ты, однако, быстро!"
+  },
+  {
+    "id": 169850040,
+    "word": "der Konzertsaal, die Konzertsäle",
+    "translation": "концертный зал"
+  },
+  {
+    "id": 169849818,
+    "word": "Auftrag",
+    "translation": "Order"
+  },
+  {
+    "id": 169849816,
+    "word": "erledigen",
+    "translation": "get it done"
+  },
+  {
+    "id": 169849801,
+    "word": "Sorge",
+    "translation": "Worry"
+  },
+  {
+    "id": 169454868,
+    "word": "im Stau stehen",
+    "translation": "стоять в пробке"
+  },
+  {
+    "id": 169454767,
+    "word": "der Stau, die Staus",
+    "translation": "the traffic jam, the traffic jams"
+  },
+  {
+    "id": 169452423,
+    "word": "bitten",
+    "translation": "просить"
+  },
+  {
+    "id": 169451741,
+    "word": "darum",
+    "translation": "therefore"
+  },
+  {
+    "id": 169451197,
+    "word": "Geld abheben",
+    "translation": "снимать деньги"
+  }
+]

@@ -1,0 +1,3957 @@
+{
+  "new": [
+    {
+      "Method": "GetVocabulary",
+      "Class": "WordWsController",
+      "Value": {
+        "Vocabulary": {
+          "Count": 231,
+          "Items": [
+            {
+              "Id": 175009884,
+              "Word": "der Inhalt",
+              "Translation": "содержание",
+              "PupilMaterialsId": 16215220,
+              "DateCreate": "2025-10-10T16:25:11.050005",
+              "Audio": "https://media.docstorio.com/files/WordAudios/9fbf62e9-88c8-4416-b389-3f029162e289.mp3",
+              "FileId": 484369313,
+              "Status": 0
+            },
+            {
+              "Id": 174379513,
+              "Word": "die Ersatzteile",
+              "Translation": "детали, запчасти",
+              "PupilMaterialsId": 16215220,
+              "DateCreate": "2025-10-07T16:56:30.270388",
+              "Audio": "https://media.docstorio.com/files/WordAudios/ca0aa441-9c83-434e-99fb-b640d1b82262.mp3",
+              "FileId": 547968767,
+              "Status": 0
+            },
+            {
+              "Id": 174375383,
+              "Word": "reparabel",
+              "Translation": "ремонтируемый",
+              "PupilMaterialsId": 16215220,
+              "DateCreate": "2025-10-07T16:46:56.266797",
+              "Audio": "https://media.docstorio.com/files/WordAudios/945510f7-6b9e-4c98-91a0-3c5320b8ed3a.mp3",
+              "FileId": 506276248,
+              "Status": 0
+            },
+            {
+              "Id": 174369281,
+              "Word": "die Aktion, die Aktionen",
+              "Translation": "акция",
+              "DateCreate": "2025-10-07T16:30:46.849735",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/28e75a7e-d1f4-4534-90d2-b1070c90232f.mp3",
+              "FileId": 547827125,
+              "Status": 0,
+              "WordExerciseId": 60837175
+            },
+            {
+              "Id": 174369280,
+              "Word": "der Babysitter, die Babysitter",
+              "Translation": "няня (мужчина)",
+              "DateCreate": "2025-10-07T16:30:46.839734",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/4e17128b-b132-407c-895e-63cd0eafa21a.mp3",
+              "FileId": 547827130,
+              "Status": 0,
+              "WordExerciseId": 60837176
+            },
+            {
+              "Id": 174369279,
+              "Word": "die Bücherei, die Büchereien",
+              "Translation": "библиотека",
+              "DateCreate": "2025-10-07T16:30:46.829733",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/c31394db-5e8d-4dd6-9a90-6222b2ec0073.mp3",
+              "FileId": 547827137,
+              "Status": 0,
+              "WordExerciseId": 60837177
+            },
+            {
+              "Id": 174369278,
+              "Word": "existieren, existierte, hat existiert",
+              "Translation": "существовать",
+              "DateCreate": "2025-10-07T16:30:46.819733",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/b5469e0c-5d34-4c9f-8909-905308d66740.mp3",
+              "FileId": 547827146,
+              "Status": 0,
+              "WordExerciseId": 60837178
+            },
+            {
+              "Id": 174369277,
+              "Word": "der/die Freiwillige, die Freiwilligen",
+              "Translation": "волонтёр",
+              "DateCreate": "2025-10-07T16:30:46.809732",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/42d842b9-c60e-4de2-bdef-fa80f28aaf7f.mp3",
+              "FileId": 547827154,
+              "Status": 0,
+              "WordExerciseId": 60837179
+            },
+            {
+              "Id": 174369276,
+              "Word": "der PC, die PCs",
+              "Translation": "компьютер",
+              "DateCreate": "2025-10-07T16:30:46.799731",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/2a8ecded-8f7f-49dd-b8da-c06ce214e232.mp3",
+              "FileId": 547827156,
+              "Status": 0,
+              "WordExerciseId": 60837180
+            },
+            {
+              "Id": 174369275,
+              "Word": "putzen, putzte, hat geputzt",
+              "Translation": "убирать, чистить",
+              "DateCreate": "2025-10-07T16:30:46.789731",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/b45cdeb0-0dea-482e-9d0d-616a15933cba.mp3",
+              "FileId": 547827160,
+              "Status": 0,
+              "WordExerciseId": 60837181
+            },
+            {
+              "Id": 174369274,
+              "Word": "das Repair-Café",
+              "Translation": "\"Ремонтное кафе\"",
+              "DateCreate": "2025-10-07T16:30:46.77973",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/677424ce-53e4-49db-94d7-e94335e26960.mp3",
+              "FileId": 547827165,
+              "Status": 0,
+              "WordExerciseId": 60837182
+            },
+            {
+              "Id": 174369273,
+              "Word": "die Reparatur, die Reparaturen",
+              "Translation": "ремонт, починка",
+              "DateCreate": "2025-10-07T16:30:46.76973",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/3735759c-6c5f-43ee-9aa1-1a32f52a70bb.mp3",
+              "FileId": 547827177,
+              "Status": 0,
+              "WordExerciseId": 60837183
+            },
+            {
+              "Id": 174369272,
+              "Word": "reparieren, reparierte, hat repariert",
+              "Translation": "ремонтировать, чинить",
+              "DateCreate": "2025-10-07T16:30:46.759729",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/5ae3d466-9aca-45b1-83ca-a1f809388e5e.mp3",
+              "FileId": 547827186,
+              "Status": 0,
+              "WordExerciseId": 60837184
+            },
+            {
+              "Id": 174369271,
+              "Word": "der Senior, die Senioren",
+              "Translation": "пожилой мужчина, человек \"в возрасте\", пенсионер",
+              "DateCreate": "2025-10-07T16:30:46.749728",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/3793a164-51cf-430a-96ff-53b87b7cdc09.mp3",
+              "FileId": 547827196,
+              "Status": 0,
+              "WordExerciseId": 60837185
+            },
+            {
+              "Id": 174369270,
+              "Word": "der Service, die Services",
+              "Translation": "сервис, обслуживание",
+              "DateCreate": "2025-10-07T16:30:46.739728",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/c544dd33-314d-4192-aca0-f8d5caf4138c.mp3",
+              "FileId": 547827204,
+              "Status": 0,
+              "WordExerciseId": 60837186
+            },
+            {
+              "Id": 174369269,
+              "Word": "Geschirr spülen, spülte, hat gespült",
+              "Translation": "мыть посуду",
+              "DateCreate": "2025-10-07T16:30:46.729727",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/e435c8ad-bbcc-4326-9433-6763b44b7a90.mp3",
+              "FileId": 547827216,
+              "Status": 0,
+              "WordExerciseId": 60837187
+            },
+            {
+              "Id": 174369268,
+              "Word": "starten, startete, hat gestartet",
+              "Translation": "стартовать",
+              "DateCreate": "2025-10-07T16:30:46.719727",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/1b034aad-7398-41d6-9cd0-8b717772be18.mp3",
+              "FileId": 547827226,
+              "Status": 0,
+              "WordExerciseId": 60837188
+            },
+            {
+              "Id": 174369267,
+              "Word": "voneinander",
+              "Translation": "друг у друга",
+              "DateCreate": "2025-10-07T16:30:46.709726",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/fedc9601-36a6-4e5d-9bf8-b8b1e690c32f.mp3",
+              "FileId": 547827234,
+              "Status": 0,
+              "WordExerciseId": 60837189
+            },
+            {
+              "Id": 174369266,
+              "Word": "wegwerfen, er wirft weg, hat weggeworfen",
+              "Translation": "выбрасывать",
+              "DateCreate": "2025-10-07T16:30:46.699725",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/67772576-7cf0-476c-ba61-25216c9a00ae.mp3",
+              "FileId": 547827246,
+              "Status": 0,
+              "WordExerciseId": 60837190
+            },
+            {
+              "Id": 174369265,
+              "Word": "das Werkzeug, die Werkzeuge",
+              "Translation": "инструмент",
+              "DateCreate": "2025-10-07T16:30:46.689725",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/eccb6ecf-8582-4af8-8fc7-1092c735536c.mp3",
+              "FileId": 547827256,
+              "Status": 0,
+              "WordExerciseId": 60837191
+            }
+          ],
+          "PupilIdInGroup": 2976404
+        }
+      },
+      "ErrorCode": 0,
+      "RequestId": "a71141f3-9a51-4daa-b091-3a56613fbcb7",
+      "ConnectionId": "5728e6cf-1d42-4a5c-bca0-eb7766d0b784",
+      "IsSuccess": true,
+      "ProjectName": "Vocabulary"
+    },
+    {
+      "Method": "GetVocabulary",
+      "Class": "WordWsController",
+      "Value": {
+        "Vocabulary": {
+          "Count": 231,
+          "Items": [
+            {
+              "Id": 175009884,
+              "Word": "der Inhalt",
+              "Translation": "содержание",
+              "PupilMaterialsId": 16215220,
+              "DateCreate": "2025-10-10T16:25:11.050005",
+              "Audio": "https://media.docstorio.com/files/WordAudios/9fbf62e9-88c8-4416-b389-3f029162e289.mp3",
+              "FileId": 484369313,
+              "Status": 0
+            },
+            {
+              "Id": 174379513,
+              "Word": "die Ersatzteile",
+              "Translation": "детали, запчасти",
+              "PupilMaterialsId": 16215220,
+              "DateCreate": "2025-10-07T16:56:30.270388",
+              "Audio": "https://media.docstorio.com/files/WordAudios/ca0aa441-9c83-434e-99fb-b640d1b82262.mp3",
+              "FileId": 547968767,
+              "Status": 0
+            },
+            {
+              "Id": 174375383,
+              "Word": "reparabel",
+              "Translation": "ремонтируемый",
+              "PupilMaterialsId": 16215220,
+              "DateCreate": "2025-10-07T16:46:56.266797",
+              "Audio": "https://media.docstorio.com/files/WordAudios/945510f7-6b9e-4c98-91a0-3c5320b8ed3a.mp3",
+              "FileId": 506276248,
+              "Status": 0
+            },
+            {
+              "Id": 174369281,
+              "Word": "die Aktion, die Aktionen",
+              "Translation": "акция",
+              "DateCreate": "2025-10-07T16:30:46.849735",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/28e75a7e-d1f4-4534-90d2-b1070c90232f.mp3",
+              "FileId": 547827125,
+              "Status": 0,
+              "WordExerciseId": 60837175
+            },
+            {
+              "Id": 174369280,
+              "Word": "der Babysitter, die Babysitter",
+              "Translation": "няня (мужчина)",
+              "DateCreate": "2025-10-07T16:30:46.839734",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/4e17128b-b132-407c-895e-63cd0eafa21a.mp3",
+              "FileId": 547827130,
+              "Status": 0,
+              "WordExerciseId": 60837176
+            },
+            {
+              "Id": 174369279,
+              "Word": "die Bücherei, die Büchereien",
+              "Translation": "библиотека",
+              "DateCreate": "2025-10-07T16:30:46.829733",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/c31394db-5e8d-4dd6-9a90-6222b2ec0073.mp3",
+              "FileId": 547827137,
+              "Status": 0,
+              "WordExerciseId": 60837177
+            },
+            {
+              "Id": 174369278,
+              "Word": "existieren, existierte, hat existiert",
+              "Translation": "существовать",
+              "DateCreate": "2025-10-07T16:30:46.819733",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/b5469e0c-5d34-4c9f-8909-905308d66740.mp3",
+              "FileId": 547827146,
+              "Status": 0,
+              "WordExerciseId": 60837178
+            },
+            {
+              "Id": 174369277,
+              "Word": "der/die Freiwillige, die Freiwilligen",
+              "Translation": "волонтёр",
+              "DateCreate": "2025-10-07T16:30:46.809732",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/42d842b9-c60e-4de2-bdef-fa80f28aaf7f.mp3",
+              "FileId": 547827154,
+              "Status": 0,
+              "WordExerciseId": 60837179
+            },
+            {
+              "Id": 174369276,
+              "Word": "der PC, die PCs",
+              "Translation": "компьютер",
+              "DateCreate": "2025-10-07T16:30:46.799731",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/2a8ecded-8f7f-49dd-b8da-c06ce214e232.mp3",
+              "FileId": 547827156,
+              "Status": 0,
+              "WordExerciseId": 60837180
+            },
+            {
+              "Id": 174369275,
+              "Word": "putzen, putzte, hat geputzt",
+              "Translation": "убирать, чистить",
+              "DateCreate": "2025-10-07T16:30:46.789731",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/b45cdeb0-0dea-482e-9d0d-616a15933cba.mp3",
+              "FileId": 547827160,
+              "Status": 0,
+              "WordExerciseId": 60837181
+            },
+            {
+              "Id": 174369274,
+              "Word": "das Repair-Café",
+              "Translation": "\"Ремонтное кафе\"",
+              "DateCreate": "2025-10-07T16:30:46.77973",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/677424ce-53e4-49db-94d7-e94335e26960.mp3",
+              "FileId": 547827165,
+              "Status": 0,
+              "WordExerciseId": 60837182
+            },
+            {
+              "Id": 174369273,
+              "Word": "die Reparatur, die Reparaturen",
+              "Translation": "ремонт, починка",
+              "DateCreate": "2025-10-07T16:30:46.76973",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/3735759c-6c5f-43ee-9aa1-1a32f52a70bb.mp3",
+              "FileId": 547827177,
+              "Status": 0,
+              "WordExerciseId": 60837183
+            },
+            {
+              "Id": 174369272,
+              "Word": "reparieren, reparierte, hat repariert",
+              "Translation": "ремонтировать, чинить",
+              "DateCreate": "2025-10-07T16:30:46.759729",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/5ae3d466-9aca-45b1-83ca-a1f809388e5e.mp3",
+              "FileId": 547827186,
+              "Status": 0,
+              "WordExerciseId": 60837184
+            },
+            {
+              "Id": 174369271,
+              "Word": "der Senior, die Senioren",
+              "Translation": "пожилой мужчина, человек \"в возрасте\", пенсионер",
+              "DateCreate": "2025-10-07T16:30:46.749728",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/3793a164-51cf-430a-96ff-53b87b7cdc09.mp3",
+              "FileId": 547827196,
+              "Status": 0,
+              "WordExerciseId": 60837185
+            },
+            {
+              "Id": 174369270,
+              "Word": "der Service, die Services",
+              "Translation": "сервис, обслуживание",
+              "DateCreate": "2025-10-07T16:30:46.739728",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/c544dd33-314d-4192-aca0-f8d5caf4138c.mp3",
+              "FileId": 547827204,
+              "Status": 0,
+              "WordExerciseId": 60837186
+            },
+            {
+              "Id": 174369269,
+              "Word": "Geschirr spülen, spülte, hat gespült",
+              "Translation": "мыть посуду",
+              "DateCreate": "2025-10-07T16:30:46.729727",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/e435c8ad-bbcc-4326-9433-6763b44b7a90.mp3",
+              "FileId": 547827216,
+              "Status": 0,
+              "WordExerciseId": 60837187
+            },
+            {
+              "Id": 174369268,
+              "Word": "starten, startete, hat gestartet",
+              "Translation": "стартовать",
+              "DateCreate": "2025-10-07T16:30:46.719727",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/1b034aad-7398-41d6-9cd0-8b717772be18.mp3",
+              "FileId": 547827226,
+              "Status": 0,
+              "WordExerciseId": 60837188
+            },
+            {
+              "Id": 174369267,
+              "Word": "voneinander",
+              "Translation": "друг у друга",
+              "DateCreate": "2025-10-07T16:30:46.709726",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/fedc9601-36a6-4e5d-9bf8-b8b1e690c32f.mp3",
+              "FileId": 547827234,
+              "Status": 0,
+              "WordExerciseId": 60837189
+            },
+            {
+              "Id": 174369266,
+              "Word": "wegwerfen, er wirft weg, hat weggeworfen",
+              "Translation": "выбрасывать",
+              "DateCreate": "2025-10-07T16:30:46.699725",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/67772576-7cf0-476c-ba61-25216c9a00ae.mp3",
+              "FileId": 547827246,
+              "Status": 0,
+              "WordExerciseId": 60837190
+            },
+            {
+              "Id": 174369265,
+              "Word": "das Werkzeug, die Werkzeuge",
+              "Translation": "инструмент",
+              "DateCreate": "2025-10-07T16:30:46.689725",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/eccb6ecf-8582-4af8-8fc7-1092c735536c.mp3",
+              "FileId": 547827256,
+              "Status": 0,
+              "WordExerciseId": 60837191
+            },
+            {
+              "Id": 174369264,
+              "Word": "zusammenbringen, brachte zusammen, hat zusammengebracht",
+              "Translation": "собирать вместе, сводить вместе",
+              "DateCreate": "2025-10-07T16:30:46.679724",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/b50cc96d-692d-46c9-aa54-e558f7259a30.mp3",
+              "FileId": 547827259,
+              "Status": 0,
+              "WordExerciseId": 60837192
+            },
+            {
+              "Id": 174368147,
+              "Word": "klauen",
+              "Translation": "красть",
+              "PupilMaterialsId": 16215220,
+              "DateCreate": "2025-10-07T16:28:10.175975",
+              "Audio": "https://media.docstorio.com/files/WordAudios/1c187ad7-1ff0-4c31-82cf-4ed70f3fa63a.mp3",
+              "FileId": 479361607,
+              "Status": 0
+            },
+            {
+              "Id": 173692449,
+              "Word": "ausländisch",
+              "Translation": "иностранный",
+              "DateCreate": "2025-10-03T16:34:49.799757",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/61c7c28e-eb6c-4f2d-b78f-effcb4187674.mp3",
+              "FileId": 545574651,
+              "Status": 0,
+              "WordExerciseId": 60484399
+            },
+            {
+              "Id": 173692448,
+              "Word": "der Autor, die Autoren",
+              "Translation": "автор",
+              "DateCreate": "2025-10-03T16:34:49.789756",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/bde4be12-9002-4093-9033-f418c7af14a0.mp3",
+              "FileId": 545574653,
+              "Status": 0,
+              "WordExerciseId": 60484405
+            },
+            {
+              "Id": 173692447,
+              "Word": "begleiten, begleitet, hat begleitet",
+              "Translation": "сопровождать, провожать",
+              "DateCreate": "2025-10-03T16:34:49.779755",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/22bd1c49-7f19-4f47-b4be-e5227e12e03b.mp3",
+              "FileId": 545574655,
+              "Status": 0,
+              "WordExerciseId": 60484406
+            },
+            {
+              "Id": 173692446,
+              "Word": "dazulernen",
+              "Translation": "изучать что-то новое",
+              "DateCreate": "2025-10-03T16:34:49.769754",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/9f5e662f-6936-4fde-a46d-5ee1deff7c16.mp3",
+              "FileId": 545574658,
+              "Status": 0,
+              "WordExerciseId": 60484407
+            },
+            {
+              "Id": 173692445,
+              "Word": "dolmetschen",
+              "Translation": "переводить (устно)",
+              "DateCreate": "2025-10-03T16:34:49.759753",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/2a4705d9-be44-42e4-a0de-2767a0c0b786.mp3",
+              "FileId": 545574659,
+              "Status": 0,
+              "WordExerciseId": 60484408
+            },
+            {
+              "Id": 173692444,
+              "Word": "faszinieren, faszinierte, hat fasziniert",
+              "Translation": "восхищать",
+              "DateCreate": "2025-10-03T16:34:49.749753",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/560bf775-3cbb-474d-9289-70c025b5de5d.mp3",
+              "FileId": 545574661,
+              "Status": 0,
+              "WordExerciseId": 60484409
+            },
+            {
+              "Id": 173692443,
+              "Word": "das Feedback, die Feedbacks",
+              "Translation": "отзыв, фидбэк",
+              "DateCreate": "2025-10-03T16:34:49.739752",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/efc44525-ad7a-4043-ae68-34006dfada5e.mp3",
+              "FileId": 545574662,
+              "Status": 0,
+              "WordExerciseId": 60484410
+            },
+            {
+              "Id": 173692442,
+              "Word": "die Figur, die Figuren",
+              "Translation": "фигура",
+              "DateCreate": "2025-10-03T16:34:49.729752",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/7458480f-32e3-4ced-a3f9-a0a56e48a171.mp3",
+              "FileId": 545574664,
+              "Status": 0,
+              "WordExerciseId": 60484411
+            },
+            {
+              "Id": 173692441,
+              "Word": "freiberuflich",
+              "Translation": "работающий не по найму, на гонорарной основе",
+              "DateCreate": "2025-10-03T16:34:49.719751",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/0ff21d75-194f-437b-a512-aa137cc6c3d4.mp3",
+              "FileId": 545574666,
+              "Status": 0,
+              "WordExerciseId": 60484412
+            },
+            {
+              "Id": 173692440,
+              "Word": "der Gebärdendolmetscher, die Gebärdendolmetscher",
+              "Translation": "сурдопереводчик",
+              "DateCreate": "2025-10-03T16:34:49.709751",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/8a405cc2-f234-4370-a3aa-45d952d44a23.mp3",
+              "FileId": 545574667,
+              "Status": 0,
+              "WordExerciseId": 60484413
+            },
+            {
+              "Id": 173692439,
+              "Word": "das Gebärdentelefon, die Gebärdentelefone",
+              "Translation": "служба телефонной связи для глухонемых",
+              "DateCreate": "2025-10-03T16:34:49.69975",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/1daf4d92-1ccc-444f-a6f0-7f88cf9116ea.mp3",
+              "FileId": 545574668,
+              "Status": 0,
+              "WordExerciseId": 60484414
+            },
+            {
+              "Id": 173692438,
+              "Word": "Feedback geben",
+              "Translation": "оставлять отзыв",
+              "DateCreate": "2025-10-03T16:34:49.68975",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/7f57052e-bfee-44d8-8ae7-69c50e3adacc.mp3",
+              "FileId": 545574669,
+              "Status": 0,
+              "WordExerciseId": 60484415
+            },
+            {
+              "Id": 173692437,
+              "Word": "gehörlos",
+              "Translation": "глухой",
+              "DateCreate": "2025-10-03T16:34:49.679749",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/159365b9-bc10-4b5a-903d-efffaec0253e.mp3",
+              "FileId": 545574670,
+              "Status": 0,
+              "WordExerciseId": 60484416
+            },
+            {
+              "Id": 173692436,
+              "Word": "der/die Gehörlose, die Gehörlosen",
+              "Translation": "глухонемой/глухонемая",
+              "DateCreate": "2025-10-03T16:34:49.669748",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/e3e7bc98-504e-46cb-97b9-182481368bc1.mp3",
+              "FileId": 545574672,
+              "Status": 0,
+              "WordExerciseId": 60484417
+            },
+            {
+              "Id": 173692435,
+              "Word": "der Gesprächspartner, die Gesprächspartner",
+              "Translation": "собеседник",
+              "DateCreate": "2025-10-03T16:34:49.659748",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/5aa1e24f-7efb-4a50-84da-1df27518f500.mp3",
+              "FileId": 545574675,
+              "Status": 0,
+              "WordExerciseId": 60484418
+            },
+            {
+              "Id": 173692434,
+              "Word": "der Katalog, die Kataloge",
+              "Translation": "каталог",
+              "DateCreate": "2025-10-03T16:34:49.649747",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/0525bc62-84fa-45cb-a471-23aa5f46345b.mp3",
+              "FileId": 545574677,
+              "Status": 0,
+              "WordExerciseId": 60484419
+            },
+            {
+              "Id": 173692433,
+              "Word": "die Kommunikation (Sg.)",
+              "Translation": "коммуникация",
+              "DateCreate": "2025-10-03T16:34:49.639747",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/cd55c454-ba74-44d8-b852-d70204b07240.mp3",
+              "FileId": 545574678,
+              "Status": 0,
+              "WordExerciseId": 60484420
+            },
+            {
+              "Id": 173692432,
+              "Word": "kommunizieren, kommunizierte, hat kommuniziert",
+              "Translation": "коммуницировать, общаться",
+              "DateCreate": "2025-10-03T16:34:49.629746",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/07daccbe-c9ed-49e0-947e-951088ee0de1.mp3",
+              "FileId": 545574679,
+              "Status": 0,
+              "WordExerciseId": 60484421
+            },
+            {
+              "Id": 173692431,
+              "Word": "die Konferenz, die Konferenzen",
+              "Translation": "конференция",
+              "DateCreate": "2025-10-03T16:34:49.619744",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/86f64768-0f79-4873-86fa-24f0e9d5c88d.mp3",
+              "FileId": 545574680,
+              "Status": 0,
+              "WordExerciseId": 60484422
+            },
+            {
+              "Id": 173692430,
+              "Word": "lang (eine Zeit lang)",
+              "Translation": "длинный, протяжённый, в течение (на некоторое время)",
+              "DateCreate": "2025-10-03T16:34:49.609743",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/662417f7-19ec-4c5d-b8ed-b8bae368f8d8.mp3",
+              "FileId": 545574683,
+              "Status": 0,
+              "WordExerciseId": 60484423
+            },
+            {
+              "Id": 173692429,
+              "Word": "der/die Lernende, die Lernenden",
+              "Translation": "учащийся/учащаяся",
+              "DateCreate": "2025-10-03T16:34:49.599743",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/1ec84f27-940d-4737-b90d-bc4763aed5f5.mp3",
+              "FileId": 545574623,
+              "Status": 0,
+              "WordExerciseId": 60484444
+            },
+            {
+              "Id": 173692428,
+              "Word": "die Mitternacht (Sg.) (um Mitternacht)",
+              "Translation": "полночь (в полночь)",
+              "DateCreate": "2025-10-03T16:34:49.589742",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/2d5beca1-fdc1-4b86-9751-f05ff43c2c8b.mp3",
+              "FileId": 545574625,
+              "Status": 0,
+              "WordExerciseId": 60484445
+            },
+            {
+              "Id": 173692427,
+              "Word": "der Prospekt, die Prospekte",
+              "Translation": "проспект (буклет)",
+              "DateCreate": "2025-10-03T16:34:49.579741",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/747971c9-ad77-4e75-b9d0-06c83f6fe416.mp3",
+              "FileId": 545574627,
+              "Status": 0,
+              "WordExerciseId": 60484446
+            },
+            {
+              "Id": 173692426,
+              "Word": "sorgen für + Akk., sorgte, hat gesorgt",
+              "Translation": "заботиться о чём-либо, ком-либо",
+              "DateCreate": "2025-10-03T16:34:49.569741",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/72d363a1-8693-4cfb-801b-1cb636cac46b.mp3",
+              "FileId": 545574631,
+              "Status": 0,
+              "WordExerciseId": 60484447
+            },
+            {
+              "Id": 173692425,
+              "Word": "das Sprachenlernen (Sg.)",
+              "Translation": "изучения языка",
+              "DateCreate": "2025-10-03T16:34:49.55974",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/d29175f3-d031-4ced-b237-8ca90d3ec508.mp3",
+              "FileId": 545574634,
+              "Status": 0,
+              "WordExerciseId": 60484448
+            },
+            {
+              "Id": 173692424,
+              "Word": "die Sprachwissenschaft, die Sprachwissenschaften",
+              "Translation": "лингвистика, языкознание",
+              "DateCreate": "2025-10-03T16:34:49.549739",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/36a44114-4acc-42e2-bc39-3863fe52efbd.mp3",
+              "FileId": 545574635,
+              "Status": 0,
+              "WordExerciseId": 60484449
+            },
+            {
+              "Id": 173692423,
+              "Word": "das Standesamt, die Standesämter",
+              "Translation": "ЗАГС",
+              "DateCreate": "2025-10-03T16:34:49.539739",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/214e737f-c671-460a-a106-224245f6c120.mp3",
+              "FileId": 545574637,
+              "Status": 0,
+              "WordExerciseId": 60484450
+            },
+            {
+              "Id": 173692422,
+              "Word": "stundenweise",
+              "Translation": "по часам, почасовой (об оплате)",
+              "DateCreate": "2025-10-03T16:34:49.529738",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/b76e1bfe-17ca-4369-9f5e-bff5e837b7c0.mp3",
+              "FileId": 545574638,
+              "Status": 0,
+              "WordExerciseId": 60484451
+            },
+            {
+              "Id": 173692421,
+              "Word": "die Vollzeit (Sg.)",
+              "Translation": "работа на полную ставку",
+              "DateCreate": "2025-10-03T16:34:49.519738",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/e47d6708-dd34-4c83-b1fc-b5d7224e54b8.mp3",
+              "FileId": 545574640,
+              "Status": 0,
+              "WordExerciseId": 60484452
+            },
+            {
+              "Id": 173692420,
+              "Word": "weitergeben, gab weiter, hat weitergegeben",
+              "Translation": "передавать",
+              "DateCreate": "2025-10-03T16:34:49.509737",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/27066de5-6fd8-4c21-8afc-0f3b326a9d7e.mp3",
+              "FileId": 545574645,
+              "Status": 0,
+              "WordExerciseId": 60484453
+            },
+            {
+              "Id": 173692419,
+              "Word": "wohl (Ich überlege, wie es dir wohl geht.)",
+              "Translation": "пожалуй, вероятно, наверное, здесь: что ли (разг.) (Я думаю о том, как у тебя что ли дела.)",
+              "DateCreate": "2025-10-03T16:34:49.499737",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/61e0b53b-ec71-4246-b7b0-666d3c368ea3.mp3",
+              "FileId": 545574646,
+              "Status": 0,
+              "WordExerciseId": 60484454
+            },
+            {
+              "Id": 173691340,
+              "Word": "die Beratung, die Beratungen",
+              "Translation": "консультация",
+              "DateCreate": "2025-10-03T16:30:28.272757",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/93acf78d-dc6a-4e96-a335-c04c716eb511.mp3",
+              "FileId": 545572284,
+              "Status": 0,
+              "WordExerciseId": 60484364
+            },
+            {
+              "Id": 173691339,
+              "Word": "bieten, er bietet, hat geboten",
+              "Translation": "предлагать",
+              "DateCreate": "2025-10-03T16:30:28.262756",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/69e46087-b22f-4efd-9cf9-188b101e214b.mp3",
+              "FileId": 545572285,
+              "Status": 0,
+              "WordExerciseId": 60484365
+            },
+            {
+              "Id": 173691338,
+              "Word": "direkt (Komm direkt zu uns!)",
+              "Translation": "прямо (Приходи прямо к нам!)",
+              "DateCreate": "2025-10-03T16:30:28.252755",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/378e07c0-6a49-419a-b3c2-61c021eea696.mp3",
+              "FileId": 545572287,
+              "Status": 0,
+              "WordExerciseId": 60484366
+            },
+            {
+              "Id": 173691337,
+              "Word": "einzeln",
+              "Translation": "единственный, индивидуальный",
+              "DateCreate": "2025-10-03T16:30:28.242754",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/4eab048e-d9cd-4945-8f17-d08e076b3ebb.mp3",
+              "FileId": 545572289,
+              "Status": 0,
+              "WordExerciseId": 60484367
+            },
+            {
+              "Id": 173691336,
+              "Word": "erfahren (Mein Chef ist sehr erfahren.)",
+              "Translation": "опытный (Мой начальник – очень опытный.)",
+              "DateCreate": "2025-10-03T16:30:28.232753",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/10555e1a-319f-48e7-9ec7-e7da3539874b.mp3",
+              "FileId": 545572290,
+              "Status": 0,
+              "WordExerciseId": 60484368
+            },
+            {
+              "Id": 173691335,
+              "Word": "erforderlich",
+              "Translation": "успешный",
+              "DateCreate": "2025-10-03T16:30:28.222752",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/1c323e47-3502-491a-9867-fb7ba2bba4f6.mp3",
+              "FileId": 545572291,
+              "Status": 0,
+              "WordExerciseId": 60484369
+            },
+            {
+              "Id": 173691334,
+              "Word": "die Förderung, die Förderungen",
+              "Translation": "помощь, поддержка, содействие",
+              "DateCreate": "2025-10-03T16:30:28.212752",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/ae8e80ff-72b7-4d8d-bf92-e84c71ca85c9.mp3",
+              "FileId": 545572294,
+              "Status": 0,
+              "WordExerciseId": 60484370
+            },
+            {
+              "Id": 173691333,
+              "Word": "das Interesse, die Interessen",
+              "Translation": "интерес",
+              "DateCreate": "2025-10-03T16:30:28.202751",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/c59ba9c0-9e4d-4b72-9374-79afed2b925e.mp3",
+              "FileId": 545572296,
+              "Status": 0,
+              "WordExerciseId": 60484371
+            },
+            {
+              "Id": 173691332,
+              "Word": "die Mailbox",
+              "Translation": "ящик голосовой почты",
+              "DateCreate": "2025-10-03T16:30:28.19275",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/a31ebfd3-f3f2-450c-9ce2-fe3abd2c464b.mp3",
+              "FileId": 545572297,
+              "Status": 0,
+              "WordExerciseId": 60484372
+            },
+            {
+              "Id": 173691331,
+              "Word": "die Mitteilung, die Mitteilungen",
+              "Translation": "сообщение (смс или голосовое)",
+              "DateCreate": "2025-10-03T16:30:28.18275",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/4e513197-f746-463d-9468-fb1ebcfe031d.mp3",
+              "FileId": 545572299,
+              "Status": 0,
+              "WordExerciseId": 60484373
+            },
+            {
+              "Id": 173691330,
+              "Word": "mündlich",
+              "Translation": "устный",
+              "DateCreate": "2025-10-03T16:30:28.172749",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/1facb20c-21ce-4fd0-b5a9-d4fdbbe4b342.mp3",
+              "FileId": 545572302,
+              "Status": 0,
+              "WordExerciseId": 60484374
+            },
+            {
+              "Id": 173691329,
+              "Word": "neugierig",
+              "Translation": "любопытный",
+              "DateCreate": "2025-10-03T16:30:28.162748",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/fcc49cde-7733-4c25-b3f7-f3e5949b69ff.mp3",
+              "FileId": 545572304,
+              "Status": 0,
+              "WordExerciseId": 60484375
+            },
+            {
+              "Id": 173691328,
+              "Word": "schriftlich",
+              "Translation": "письменный",
+              "DateCreate": "2025-10-03T16:30:28.152748",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/1813ee97-1480-4a85-945b-9c42f6bbdb22.mp3",
+              "FileId": 545572305,
+              "Status": 0,
+              "WordExerciseId": 60484376
+            },
+            {
+              "Id": 173691327,
+              "Word": "das Sekretariat, die Sekretariate",
+              "Translation": "секретариат",
+              "DateCreate": "2025-10-03T16:30:28.142744",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/ea8df7d1-7e9a-47b7-b12c-3a52f791c954.mp3",
+              "FileId": 545572306,
+              "Status": 0,
+              "WordExerciseId": 60484377
+            },
+            {
+              "Id": 173691326,
+              "Word": "die Sprechstunde, die Sprechstunden",
+              "Translation": "приемные часы",
+              "DateCreate": "2025-10-03T16:30:28.132743",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/6f5b8afe-c5b6-4586-b16d-66262d4f10ec.mp3",
+              "FileId": 545572308,
+              "Status": 0,
+              "WordExerciseId": 60484378
+            },
+            {
+              "Id": 173691325,
+              "Word": "stressfrei",
+              "Translation": "без стрессов",
+              "DateCreate": "2025-10-03T16:30:28.122743",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/943530b6-049d-49cb-a021-fec3b25098f7.mp3",
+              "FileId": 545572309,
+              "Status": 0,
+              "WordExerciseId": 60484379
+            },
+            {
+              "Id": 173691324,
+              "Word": "der Workshop, die Workshops",
+              "Translation": "семинар",
+              "DateCreate": "2025-10-03T16:30:28.112742",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/35c7157f-bf4b-4727-8b17-9a394903121a.mp3",
+              "FileId": 545572312,
+              "Status": 0,
+              "WordExerciseId": 60484380
+            },
+            {
+              "Id": 173689577,
+              "Word": "das Mineralwasser, die Mineralwasser",
+              "Translation": "минеральная вода",
+              "DateCreate": "2025-10-03T16:24:44.744056",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/da067cfb-fa5c-436b-bea3-8ebf5a280eb0.mp3",
+              "FileId": 545572708,
+              "Status": 0,
+              "WordExerciseId": 60483823
+            },
+            {
+              "Id": 173689576,
+              "Word": "die Nervosität (Sg.)",
+              "Translation": "нервозность",
+              "DateCreate": "2025-10-03T16:24:44.734056",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/99fb5e15-98ed-4da7-afd2-b0ff95b96c22.mp3",
+              "FileId": 545572711,
+              "Status": 0,
+              "WordExerciseId": 60483824
+            },
+            {
+              "Id": 173689575,
+              "Word": "die Portion, die Portionen",
+              "Translation": "порция",
+              "DateCreate": "2025-10-03T16:24:44.724055",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/fd6426bf-a3ad-434b-a968-2bde192e623b.mp3",
+              "FileId": 545572714,
+              "Status": 0,
+              "WordExerciseId": 60483825
+            },
+            {
+              "Id": 173689574,
+              "Word": "der/die Prüfende, die Prüfenden",
+              "Translation": "экзаменатор",
+              "DateCreate": "2025-10-03T16:24:44.714055",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/a067e2d5-5a22-46c3-b9ac-693a1a85d001.mp3",
+              "FileId": 545572715,
+              "Status": 0,
+              "WordExerciseId": 60483826
+            },
+            {
+              "Id": 173689573,
+              "Word": "der Prüfer, die Prüfer",
+              "Translation": "экзаменатор",
+              "DateCreate": "2025-10-03T16:24:44.704054",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/2f756b4f-585f-43f0-899c-cef87d631b8f.mp3",
+              "FileId": 545572716,
+              "Status": 0,
+              "WordExerciseId": 60483827
+            },
+            {
+              "Id": 173689572,
+              "Word": "tief",
+              "Translation": "глубоко",
+              "DateCreate": "2025-10-03T16:24:44.694054",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/1e4d9f96-9cee-4a44-8fbe-3d18e07d8983.mp3",
+              "FileId": 545572717,
+              "Status": 0,
+              "WordExerciseId": 60483828
+            },
+            {
+              "Id": 173689571,
+              "Word": "der Trick, die Tricks",
+              "Translation": "трюк, фишка",
+              "DateCreate": "2025-10-03T16:24:44.684053",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/5ccc3ed7-98ab-47d5-938e-74233937f6e8.mp3",
+              "FileId": 545572719,
+              "Status": 0,
+              "WordExerciseId": 60483829
+            },
+            {
+              "Id": 173689570,
+              "Word": "unternehmen mit + Dat., er unternahm, hat unternommen",
+              "Translation": "предпринимать",
+              "DateCreate": "2025-10-03T16:24:44.674053",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/4d5bc963-cd7b-4882-bb57-e4121d639aa1.mp3",
+              "FileId": 545572721,
+              "Status": 0,
+              "WordExerciseId": 60483830
+            },
+            {
+              "Id": 173689569,
+              "Word": "übrigens",
+              "Translation": "кстати, впрочем",
+              "DateCreate": "2025-10-03T16:24:44.664052",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/f965bbbf-3f68-4140-8588-fabd9015557a.mp3",
+              "FileId": 545572723,
+              "Status": 0,
+              "WordExerciseId": 60483831
+            },
+            {
+              "Id": 173689568,
+              "Word": "verplanen, verplante, hat verplant",
+              "Translation": "неправильно спланировать",
+              "DateCreate": "2025-10-03T16:24:44.654052",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/89ac4225-8b47-497d-a010-57e4fa6ce836.mp3",
+              "FileId": 545572725,
+              "Status": 0,
+              "WordExerciseId": 60483832
+            },
+            {
+              "Id": 173689567,
+              "Word": "der Wald, die Wälder",
+              "Translation": "лес",
+              "DateCreate": "2025-10-03T16:24:44.644051",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/8d73f1de-b3cf-438d-9456-c51496775de6.mp3",
+              "FileId": 545572727,
+              "Status": 0,
+              "WordExerciseId": 60483833
+            },
+            {
+              "Id": 173689566,
+              "Word": "die Zitrone, die Zitronen",
+              "Translation": "лимон",
+              "DateCreate": "2025-10-03T16:24:44.634051",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/b5a4b066-b54c-45f9-85d8-3981e4eb3aca.mp3",
+              "FileId": 545572731,
+              "Status": 0,
+              "WordExerciseId": 60483834
+            },
+            {
+              "Id": 173689565,
+              "Word": "zurechtkommen, er kommt zurecht, ist zurechtgekommen",
+              "Translation": "справляться (с чем-то)",
+              "DateCreate": "2025-10-03T16:24:44.62405",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/d9fee6fd-9ad0-4c3d-a4a9-ec7fea5bbb01.mp3",
+              "FileId": 545572732,
+              "Status": 0,
+              "WordExerciseId": 60483835
+            },
+            {
+              "Id": 173689564,
+              "Word": "der Ratschlag, die Ratschläge",
+              "Translation": "совет",
+              "DateCreate": "2025-10-03T16:24:44.61405",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/bd620cec-a8b4-4a05-81a3-b0a4ee864e4b.mp3",
+              "FileId": 545572686,
+              "Status": 0,
+              "WordExerciseId": 60484392
+            },
+            {
+              "Id": 173689563,
+              "Word": "einplanen, plante ein, hat eingeplant",
+              "Translation": "запланировать",
+              "DateCreate": "2025-10-03T16:24:44.604049",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/d17d3eef-9a4c-44d0-b244-aabc303830e0.mp3",
+              "FileId": 545572687,
+              "Status": 0,
+              "WordExerciseId": 60484393
+            },
+            {
+              "Id": 173689562,
+              "Word": "geben, er gibt, hat gegeben (einen Ratschlag geben)",
+              "Translation": "давать (дать совет)",
+              "DateCreate": "2025-10-03T16:24:44.594049",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/c10cb881-629c-4881-ae62-c54666782e62.mp3",
+              "FileId": 545572690,
+              "Status": 0,
+              "WordExerciseId": 60484394
+            },
+            {
+              "Id": 172856010,
+              "Word": "durchatmen, atmete durch, hat durchgeatmet",
+              "Translation": "глубоко дышать, дышать полной грудью",
+              "DateCreate": "2025-09-29T16:41:45.588518",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/33f4d26b-cf3b-4c44-8c6e-07f09e1e807b.mp3",
+              "FileId": 543594846,
+              "Status": 0,
+              "WordExerciseId": 60164561
+            },
+            {
+              "Id": 172856009,
+              "Word": "die Energie, die Energien",
+              "Translation": "энергия",
+              "DateCreate": "2025-09-29T16:41:45.578518",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/78b73618-65fa-4751-9a68-5ead60af563d.mp3",
+              "FileId": 543594852,
+              "Status": 0,
+              "WordExerciseId": 60164562
+            },
+            {
+              "Id": 172856008,
+              "Word": "fett",
+              "Translation": "жирный",
+              "DateCreate": "2025-09-29T16:41:45.568517",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/6c89e736-7e7c-40ed-a3ed-3ccafeada22b.mp3",
+              "FileId": 543594858,
+              "Status": 0,
+              "WordExerciseId": 60164563
+            },
+            {
+              "Id": 172856007,
+              "Word": "freimachen, machte frei, hat freigemacht",
+              "Translation": "освободить",
+              "DateCreate": "2025-09-29T16:41:45.558516",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/12591dcc-b711-43ca-9761-a3ae28c856f9.mp3",
+              "FileId": 543594861,
+              "Status": 0,
+              "WordExerciseId": 60164564
+            },
+            {
+              "Id": 172856006,
+              "Word": "lassen, er lässt, ließ, hat gelassen (Lass freie Zeiten in deinem Lernplan.)",
+              "Translation": "оставлять (Оставь свободное время в твоем расписании.)",
+              "DateCreate": "2025-09-29T16:41:45.548516",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/4d2d9247-6d6b-4c40-a469-ae63ec212634.mp3",
+              "FileId": 543594866,
+              "Status": 0,
+              "WordExerciseId": 60164565
+            },
+            {
+              "Id": 172856005,
+              "Word": "der Lernhelfer, die Lernhelfer",
+              "Translation": "репетитор, помощник в учебе",
+              "DateCreate": "2025-09-29T16:41:45.538515",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/ed6bf484-7b37-4903-8ce4-da2ceb41a69f.mp3",
+              "FileId": 543594875,
+              "Status": 0,
+              "WordExerciseId": 60164566
+            },
+            {
+              "Id": 172853244,
+              "Word": "die Abschlussarbeit",
+              "Translation": "дипломная работа",
+              "PupilMaterialsId": 16215220,
+              "DateCreate": "2025-09-29T16:34:31.682535",
+              "Audio": "https://media.docstorio.com/files/WordAudios/4b41b657-e0a2-4d51-a031-c31f0423fcae.mp3",
+              "FileId": 543629339,
+              "Status": 0
+            },
+            {
+              "Id": 172849529,
+              "Word": "schaffen",
+              "Translation": "справиться с чем-то",
+              "PupilMaterialsId": 16215220,
+              "DateCreate": "2025-09-29T16:24:39.921885",
+              "Audio": "https://media.docstorio.com/files/WordAudios/631aef25-2e95-4e1a-925f-98b086a20df6.mp3",
+              "FileId": 473567060,
+              "Status": 0
+            },
+            {
+              "Id": 172844697,
+              "Word": "die Abschlussprüfung, die Abschlussprüfungen",
+              "Translation": "итоговый экзамен",
+              "DateCreate": "2025-09-29T16:13:04.762813",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/8a3e519c-40c1-4d61-b1c3-72f532959bd2.mp3",
+              "FileId": 543575270,
+              "Status": 0,
+              "WordExerciseId": 60162932
+            },
+            {
+              "Id": 172844696,
+              "Word": "blicken, blickte, hat geblickt",
+              "Translation": "глядеть, смотреть, здесь: в переносном значении \"понимать\"",
+              "DateCreate": "2025-09-29T16:13:04.752812",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/e5284ca6-1127-44f7-abcc-bdce9e164637.mp3",
+              "FileId": 543575276,
+              "Status": 0,
+              "WordExerciseId": 60162933
+            },
+            {
+              "Id": 172844695,
+              "Word": "checken (Wie funktioniert das? Ich check's nicht!)",
+              "Translation": "понимать (Как это работает? Я не понимаю!)",
+              "DateCreate": "2025-09-29T16:13:04.742812",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/3bfc8c33-5569-4df8-8a34-c79fc1aadbd4.mp3",
+              "FileId": 543575280,
+              "Status": 0,
+              "WordExerciseId": 60162934
+            },
+            {
+              "Id": 172844694,
+              "Word": "die Fahrstunde, die Fahrstunden",
+              "Translation": "урок вождения",
+              "DateCreate": "2025-09-29T16:13:04.73281",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/b82ecd49-e1ad-41fa-abe8-c0c831b2727b.mp3",
+              "FileId": 543575285,
+              "Status": 0,
+              "WordExerciseId": 60162935
+            },
+            {
+              "Id": 172844693,
+              "Word": "das Forum, die Foren",
+              "Translation": "форум",
+              "DateCreate": "2025-09-29T16:13:04.72281",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/a734b95c-660e-4e7a-897c-d569e8066f54.mp3",
+              "FileId": 543575290,
+              "Status": 0,
+              "WordExerciseId": 60162936
+            },
+            {
+              "Id": 172844692,
+              "Word": "die Hälfte, die Hälften",
+              "Translation": "половина",
+              "DateCreate": "2025-09-29T16:13:04.712809",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/d814af41-fd98-4f28-8466-730b58504c85.mp3",
+              "FileId": 543575298,
+              "Status": 0,
+              "WordExerciseId": 60162937
+            }
+          ],
+          "PupilIdInGroup": 2976404
+        }
+      },
+      "ErrorCode": 0,
+      "RequestId": "6b220586-d535-410e-9484-99ab49e224bd",
+      "ConnectionId": "5728e6cf-1d42-4a5c-bca0-eb7766d0b784",
+      "IsSuccess": true,
+      "ProjectName": "Vocabulary"
+    },
+
+    {
+      "Method": "GetVocabulary",
+      "Class": "WordWsController",
+      "Value": {
+        "Vocabulary": {
+          "Count": 231,
+          "Items": [
+            {
+              "Id": 172844691,
+              "Word": "hart",
+              "Translation": "суровый, тяжёлый",
+              "DateCreate": "2025-09-29T16:13:04.702809",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/af5724a0-26b7-4ebf-9012-059223cd8bb3.mp3",
+              "FileId": 543575306,
+              "Status": 0,
+              "WordExerciseId": 60162938
+            },
+            {
+              "Id": 172844690,
+              "Word": "das Herz, die Herzen",
+              "Translation": "сердце",
+              "DateCreate": "2025-09-29T16:13:04.692808",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/61ce0753-0deb-4feb-8f64-8f89fdb54082.mp3",
+              "FileId": 543575310,
+              "Status": 0,
+              "WordExerciseId": 60162939
+            },
+            {
+              "Id": 172844689,
+              "Word": "intelligent",
+              "Translation": "развитый, интеллектуальный, умный",
+              "DateCreate": "2025-09-29T16:13:04.682807",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/b0f1a12c-7de7-46a1-b834-8585ccc22a52.mp3",
+              "FileId": 543575319,
+              "Status": 0,
+              "WordExerciseId": 60162940
+            },
+            {
+              "Id": 172844688,
+              "Word": "kapieren, kapierte, hat kapiert",
+              "Translation": "понимать (разг.)",
+              "DateCreate": "2025-09-29T16:13:04.672807",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/37e46a94-04f3-4aff-b1df-ed94d8320723.mp3",
+              "FileId": 543575330,
+              "Status": 0,
+              "WordExerciseId": 60162941
+            },
+            {
+              "Id": 172844687,
+              "Word": "klug",
+              "Translation": "умный",
+              "DateCreate": "2025-09-29T16:13:04.662806",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/c566844d-bf4e-4a39-8d7c-5450761c08f8.mp3",
+              "FileId": 543575341,
+              "Status": 0,
+              "WordExerciseId": 60162942
+            },
+            {
+              "Id": 172844686,
+              "Word": "die Magenschmerzen (Pl.)",
+              "Translation": "боли в желудке",
+              "DateCreate": "2025-09-29T16:13:04.652805",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/3456dad7-f880-478a-86a9-0ddb823bb969.mp3",
+              "FileId": 543575351,
+              "Status": 0,
+              "WordExerciseId": 60162943
+            },
+            {
+              "Id": 172844685,
+              "Word": "rasen, raste, hat/ist gerast",
+              "Translation": "(бешено) мчаться, нестись, здесь: сильно колотиться",
+              "DateCreate": "2025-09-29T16:13:04.642805",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/4c2936f0-eaa1-4026-8609-febd2af5ed5c.mp3",
+              "FileId": 543575363,
+              "Status": 0,
+              "WordExerciseId": 60162944
+            },
+            {
+              "Id": 172844684,
+              "Word": "realistisch",
+              "Translation": "реалистичный",
+              "DateCreate": "2025-09-29T16:13:04.632804",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/25f760ea-c1b4-42dc-87cc-960647417da0.mp3",
+              "FileId": 543575374,
+              "Status": 0,
+              "WordExerciseId": 60162945
+            },
+            {
+              "Id": 172844683,
+              "Word": "das Stipendium, die Stipendien",
+              "Translation": "стипендия",
+              "DateCreate": "2025-09-29T16:13:04.622804",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/8667f3c2-4e97-4ae2-89cd-3fb1b981e9bc.mp3",
+              "FileId": 543575382,
+              "Status": 0,
+              "WordExerciseId": 60162946
+            },
+            {
+              "Id": 172844682,
+              "Word": "der Stoff, die Stoffe",
+              "Translation": "материал",
+              "DateCreate": "2025-09-29T16:13:04.612803",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/ff3f4c8b-8455-4d94-b2ce-ae5a0cbe820f.mp3",
+              "FileId": 543575387,
+              "Status": 0,
+              "WordExerciseId": 60162947
+            },
+            {
+              "Id": 172844681,
+              "Word": "tagsüber",
+              "Translation": "днем",
+              "DateCreate": "2025-09-29T16:13:04.602803",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/f7be584d-17f9-41b0-99d6-d61f0ddb515a.mp3",
+              "FileId": 543575391,
+              "Status": 0,
+              "WordExerciseId": 60162948
+            },
+            {
+              "Id": 172844680,
+              "Word": "der Zeitplan, die Zeitpläne",
+              "Translation": "расписание",
+              "DateCreate": "2025-09-29T16:13:04.592802",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/0e7aecb3-6d48-4d0e-a0d1-5d57a8389b34.mp3",
+              "FileId": 543575395,
+              "Status": 0,
+              "WordExerciseId": 60162949
+            },
+            {
+              "Id": 172844679,
+              "Word": "das Lernproblem, die Lernprobleme",
+              "Translation": "трудность/проблема в обучении",
+              "DateCreate": "2025-09-29T16:13:04.582801",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/059186b7-3282-4869-8e96-b9d180637bd0.mp3",
+              "FileId": 543575401,
+              "Status": 0,
+              "WordExerciseId": 60162950
+            },
+            {
+              "Id": 172844678,
+              "Word": "verschieben, verschob, hat verschoben",
+              "Translation": "переносить",
+              "DateCreate": "2025-09-29T16:13:04.5728",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/de7062a7-7612-4754-92f3-64090065b6b0.mp3",
+              "FileId": 543575410,
+              "Status": 0,
+              "WordExerciseId": 60162951
+            },
+            {
+              "Id": 172844677,
+              "Word": "damit (Ein Paket? Was machst du damit?)",
+              "Translation": "этим, с этим (Посылка? Что ты с этим будешь делать?)",
+              "DateCreate": "2025-09-29T16:13:04.5628",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/148877f7-a6a2-4ad9-867c-ac8554fff78c.mp3",
+              "FileId": 543575417,
+              "Status": 0,
+              "WordExerciseId": 60162952
+            },
+            {
+              "Id": 172844676,
+              "Word": "weiterarbeiten, arbeitete weiter, hat weitergearbeitet",
+              "Translation": "продолжать работать",
+              "DateCreate": "2025-09-29T16:13:04.552798",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/787f5c5e-34aa-4da0-8903-d039458c547a.mp3",
+              "FileId": 543575256,
+              "Status": 0,
+              "WordExerciseId": 60163118
+            },
+            {
+              "Id": 172842999,
+              "Word": "die Unterlagen",
+              "Translation": "документы",
+              "PupilMaterialsId": 16215220,
+              "DateCreate": "2025-09-29T16:08:20.335288",
+              "Audio": "https://media.docstorio.com/files/WordAudios/3587e2c6-ec08-4a37-9699-4fe8bcf52735.mp3",
+              "FileId": 488557220,
+              "Status": 0
+            },
+            {
+              "Id": 172841605,
+              "Word": "notwendig",
+              "Translation": "необходимый",
+              "DateCreate": "2025-09-29T16:04:16.501117",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/77692836-374f-4d42-8b58-04af8d503cbe.mp3",
+              "FileId": 543219707,
+              "Status": 0,
+              "WordExerciseId": 60113074
+            },
+            {
+              "Id": 172841540,
+              "Word": "weiterwissen, er weiß weiter, wusste weiter, hat weitergewusst",
+              "Translation": "знать, как поступить дальше",
+              "DateCreate": "2025-09-29T16:04:04.505738",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/b428fb56-76a8-40a9-8fa8-90bc1cfb4eb6.mp3",
+              "FileId": 543219728,
+              "Status": 0,
+              "WordExerciseId": 60113080
+            },
+            {
+              "Id": 172841451,
+              "Word": "pensioniert",
+              "Translation": "на пенсии",
+              "DateCreate": "2025-09-29T16:03:52.854679",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/7fa3cd84-89a9-4dde-948b-a0aad1d22d9e.mp3",
+              "FileId": 543219712,
+              "Status": 0,
+              "WordExerciseId": 60113075
+            },
+            {
+              "Id": 172841445,
+              "Word": "sowieso",
+              "Translation": "в любом случае, так или иначе",
+              "DateCreate": "2025-09-29T16:03:50.791264",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/58059e11-c989-4908-a373-0140e686c679.mp3",
+              "FileId": 543219720,
+              "Status": 0,
+              "WordExerciseId": 60113079
+            },
+            {
+              "Id": 172841388,
+              "Word": "prima",
+              "Translation": "отличный, классный",
+              "DateCreate": "2025-09-29T16:03:41.300197",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/c35e05db-b753-449b-817b-2efc22a08a43.mp3",
+              "FileId": 543219715,
+              "Status": 0,
+              "WordExerciseId": 60113076
+            },
+            {
+              "Id": 172841386,
+              "Word": "die Qualität, die Qualitäten",
+              "Translation": "качество",
+              "DateCreate": "2025-09-29T16:03:40.83319",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/a9965c4d-6e56-4c0b-980c-ec7577132630.mp3",
+              "FileId": 543219716,
+              "Status": 0,
+              "WordExerciseId": 60113077
+            },
+            {
+              "Id": 172841371,
+              "Word": "die Rente, die Renten",
+              "Translation": "пенсия",
+              "DateCreate": "2025-09-29T16:03:39.603515",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/bfa03685-52c2-4171-b63f-f1da63d5d882.mp3",
+              "FileId": 543219717,
+              "Status": 0,
+              "WordExerciseId": 60113078
+            },
+            {
+              "Id": 172841082,
+              "Word": "rechtzeitig",
+              "Translation": "вовремя",
+              "PupilMaterialsId": 16215220,
+              "DateCreate": "2025-09-29T16:02:45.16026",
+              "Audio": "https://media.docstorio.com/files/WordAudios/a388fb52-b7e2-40b1-8c48-e8c1dd823131.mp3",
+              "FileId": 402945616,
+              "Status": 0
+            },
+            {
+              "Id": 172248172,
+              "Word": "das Instrument, -e",
+              "Translation": "инструмент",
+              "DateCreate": "2025-09-25T17:09:17.166334",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/df0863e1-3ba1-4d05-91b9-460e810f6843.mp3",
+              "FileId": 541852491,
+              "Status": 0,
+              "WordExerciseId": 59910123
+            },
+            {
+              "Id": 172248171,
+              "Word": "der Kanal, \"-e",
+              "Translation": "канал",
+              "DateCreate": "2025-09-25T17:09:17.156334",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/f9896554-e9b2-4806-8465-4a81a27ea625.mp3",
+              "FileId": 541852500,
+              "Status": 0,
+              "WordExerciseId": 59910124
+            },
+            {
+              "Id": 172248170,
+              "Word": "das Klavier, -e",
+              "Translation": "пианино",
+              "DateCreate": "2025-09-25T17:09:17.146333",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/326cab5c-3480-4252-8794-8827d0b1a918.mp3",
+              "FileId": 541852506,
+              "Status": 0,
+              "WordExerciseId": 59910125
+            },
+            {
+              "Id": 172248169,
+              "Word": "kompliziert",
+              "Translation": "сложный",
+              "DateCreate": "2025-09-25T17:09:17.136333",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/1e24c1b9-025a-4268-a1cd-d3fe8e8de36a.mp3",
+              "FileId": 541852510,
+              "Status": 0,
+              "WordExerciseId": 59910126
+            },
+            {
+              "Id": 172248168,
+              "Word": "der Kursleiter, -",
+              "Translation": "преподаватель курса",
+              "DateCreate": "2025-09-25T17:09:17.126332",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/26708f72-7b16-4f27-a741-c11db620396a.mp3",
+              "FileId": 541852517,
+              "Status": 0,
+              "WordExerciseId": 59910127
+            },
+            {
+              "Id": 172248167,
+              "Word": "die Menge, -n",
+              "Translation": "масса, большое количество",
+              "DateCreate": "2025-09-25T17:09:17.116331",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/44980022-bc06-4ce7-a6a9-c0448500835f.mp3",
+              "FileId": 541852519,
+              "Status": 0,
+              "WordExerciseId": 59910128
+            },
+            {
+              "Id": 171882651,
+              "Word": "Das ist sehr hübsch/schick/elegant.",
+              "Translation": "Симпатичная, красивая, элегантная вещь.",
+              "DateCreate": "2025-09-24T06:20:57.767349",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/0f44d32a-c06b-4228-a010-063a25eebd6d.mp3",
+              "FileId": 510616946,
+              "Status": 0,
+              "WordExerciseId": 53978021
+            },
+            {
+              "Id": 171882650,
+              "Word": "Die Qualität ist gut.",
+              "Translation": "Хорошее качество.",
+              "DateCreate": "2025-09-24T06:20:57.757344",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/9ac4b83c-c822-4481-8449-fd25b67a40f9.mp3",
+              "FileId": 510616951,
+              "Status": 0,
+              "WordExerciseId": 53978022
+            },
+            {
+              "Id": 171882649,
+              "Word": "Das ist ein toller Preis!",
+              "Translation": "Прекрасная цена!",
+              "DateCreate": "2025-09-24T06:20:57.747344",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/036d9c1e-50dd-466c-bc3b-b9293946016a.mp3",
+              "FileId": 510616954,
+              "Status": 0,
+              "WordExerciseId": 53978023
+            },
+            {
+              "Id": 171882648,
+              "Word": "Ich bin sehr zufrieden mit meinem Kauf.",
+              "Translation": "Я очень доволен покупкой.",
+              "DateCreate": "2025-09-24T06:20:57.737343",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/81014f83-8078-4f91-8480-d848cee79be9.mp3",
+              "FileId": 510616957,
+              "Status": 0,
+              "WordExerciseId": 53978024
+            },
+            {
+              "Id": 171882647,
+              "Word": "Ich komme gerne wieder.",
+              "Translation": "Я с удовольствием приду еще раз.",
+              "DateCreate": "2025-09-24T06:20:57.727342",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/09b89a1a-2968-4190-9b61-fcaf3f1ab88a.mp3",
+              "FileId": 510616958,
+              "Status": 0,
+              "WordExerciseId": 53978025
+            },
+            {
+              "Id": 171882646,
+              "Word": "Haben Sie vielleicht einen Rabatt für mich?",
+              "Translation": "Может быть у Вас есть для меня скидка?",
+              "DateCreate": "2025-09-24T06:20:57.717342",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/c4383435-f203-44cf-88d5-94c7fa4ccdaa.mp3",
+              "FileId": 510616959,
+              "Status": 0,
+              "WordExerciseId": 53978026
+            },
+            {
+              "Id": 171882645,
+              "Word": "Ich suche etwas für eine Hochzeit/ein Vorstellungsgespräch/den Alltag.",
+              "Translation": "Мне нужно что-то для свадьбы/собеседования/повседневного ношения.",
+              "DateCreate": "2025-09-24T06:20:57.707341",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/646e64af-ab88-40cb-9ff9-43c874154fa4.mp3",
+              "FileId": 510616962,
+              "Status": 0,
+              "WordExerciseId": 53978027
+            },
+            {
+              "Id": 171830289,
+              "Word": "Ich nehme das Kleid/den Pullover/die Schuhe.",
+              "Translation": "Я беру...",
+              "DateCreate": "2025-09-23T17:00:46.443018",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/d11a4d93-ffe6-4505-8866-a2353b8fc960.mp3",
+              "FileId": 510616344,
+              "Status": 0,
+              "WordExerciseId": 53977919
+            },
+            {
+              "Id": 171830288,
+              "Word": "Ich möchte das gerne kaufen.",
+              "Translation": "Я бы хотел купить эту вещь.",
+              "DateCreate": "2025-09-23T17:00:46.433017",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/8099c74a-fa2f-48e5-b0ab-365b69f616d1.mp3",
+              "FileId": 510616345,
+              "Status": 0,
+              "WordExerciseId": 53977920
+            },
+            {
+              "Id": 171830287,
+              "Word": "Ich brauche noch eine Tüte, bitte.",
+              "Translation": "Мне нужен еще один пакет, пожалуйста.",
+              "DateCreate": "2025-09-23T17:00:46.423016",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/f6bfe133-5505-4fe7-9102-4ea8e6a34be2.mp3",
+              "FileId": 510616347,
+              "Status": 0,
+              "WordExerciseId": 53977921
+            },
+            {
+              "Id": 171830286,
+              "Word": "Können Sie mir das einpacken?",
+              "Translation": "Не могли бы Вы все упаковать?",
+              "DateCreate": "2025-09-23T17:00:46.413015",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/a21c43e4-a2d6-4d8d-a3bb-32d46674c9b0.mp3",
+              "FileId": 510616351,
+              "Status": 0,
+              "WordExerciseId": 53977922
+            },
+            {
+              "Id": 171830285,
+              "Word": "Ich bezahle bar/mit Karte.",
+              "Translation": "Плачу наличными/картой.",
+              "DateCreate": "2025-09-23T17:00:46.403014",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/f12ff556-df46-4b95-8ea4-6d74bf98b0f7.mp3",
+              "FileId": 510616352,
+              "Status": 0,
+              "WordExerciseId": 53977923
+            },
+            {
+              "Id": 171830284,
+              "Word": "Ich hätte gerne den Kassenbon.",
+              "Translation": "Чек, пожалуйста.",
+              "DateCreate": "2025-09-23T17:00:46.393013",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/ce605fbb-bebb-4661-b0f9-048639129bb8.mp3",
+              "FileId": 510616353,
+              "Status": 0,
+              "WordExerciseId": 53977924
+            },
+            {
+              "Id": 171830214,
+              "Word": "Darf ich das Kleid/den Rock/die Schuhe anprobieren?",
+              "Translation": "Могу ли я примерить...",
+              "DateCreate": "2025-09-23T17:00:21.271423",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/d96f1269-344e-4b3f-9b88-af5b980db896.mp3",
+              "FileId": 510615881,
+              "Status": 0,
+              "WordExerciseId": 53977916
+            },
+            {
+              "Id": 171830213,
+              "Word": "Wo ist die Umkleide/Anprobe?",
+              "Translation": "Где примерочная?",
+              "DateCreate": "2025-09-23T17:00:21.261423",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/a3616567-6cfc-4b5d-8466-31a095f03469.mp3",
+              "FileId": 510615882,
+              "Status": 0,
+              "WordExerciseId": 53977917
+            },
+            {
+              "Id": 171830212,
+              "Word": "Passt mir das gut?",
+              "Translation": "Идет ли мне...?",
+              "DateCreate": "2025-09-23T17:00:21.251422",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/197e48bf-3400-450d-adb0-dda57f1c7333.mp3",
+              "FileId": 510615884,
+              "Status": 0,
+              "WordExerciseId": 53977918
+            },
+            {
+              "Id": 171830161,
+              "Word": "Entschuldigung, ich suche eine Jeans/ein Kleid/einen Pullover.",
+              "Translation": "Извините, я ищу/мне нужны...",
+              "DateCreate": "2025-09-23T17:00:01.931467",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/d92c274c-529f-4331-a3bb-367b3a496520.mp3",
+              "FileId": 510615625,
+              "Status": 0,
+              "WordExerciseId": 53977912
+            },
+            {
+              "Id": 171830160,
+              "Word": "Haben Sie diese Hose auch in Größe M?",
+              "Translation": "Есть ли у Вас эти брюки размера М?",
+              "DateCreate": "2025-09-23T17:00:01.921465",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/ac979315-9188-458a-91c8-343432c87d37.mp3",
+              "FileId": 510615628,
+              "Status": 0,
+              "WordExerciseId": 53977913
+            },
+            {
+              "Id": 171830159,
+              "Word": "Ich suche etwas Ähnliches wie dieses Shirt, aber in einer anderen Farbe.",
+              "Translation": "Я ищу что-то похожее на эту футболку, но другого цвета.",
+              "DateCreate": "2025-09-23T17:00:01.911465",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/c3a97935-dc94-4eaf-a684-1851597ba6e9.mp3",
+              "FileId": 510615629,
+              "Status": 0,
+              "WordExerciseId": 53977914
+            },
+            {
+              "Id": 171830158,
+              "Word": "Wo finde ich die Accessoires?",
+              "Translation": "Где можно найти аксессуары?",
+              "DateCreate": "2025-09-23T17:00:01.901464",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/33c23de3-163b-4a16-a45c-f466570c6325.mp3",
+              "FileId": 510615630,
+              "Status": 0,
+              "WordExerciseId": 53977915
+            },
+            {
+              "Id": 171825483,
+              "Word": "Gleich hier vorne",
+              "Translation": "Right here in front",
+              "PupilMaterialsId": 16215268,
+              "DateCreate": "2025-09-23T16:46:26.393745",
+              "Audio": "https://media.docstorio.com/files/WordAudios/b47ae1e6-2742-46f7-8c63-cf08c50a3710.mp3",
+              "FileId": 510720316,
+              "Status": 0
+            },
+            {
+              "Id": 171825158,
+              "Word": "ziemlich",
+              "Translation": "quite",
+              "PupilMaterialsId": 16215268,
+              "DateCreate": "2025-09-23T16:45:48.489257",
+              "Audio": "https://media.docstorio.com/files/WordAudios/d74fbace-f0d3-4566-a08a-cefc6c116ba5.mp3",
+              "FileId": 475824413,
+              "Status": 0
+            },
+            {
+              "Id": 171818425,
+              "Word": "auswendig",
+              "Translation": "наизусть",
+              "PupilMaterialsId": 16215268,
+              "DateCreate": "2025-09-23T16:29:14.855498",
+              "Audio": "https://media.docstorio.com/files/WordAudios/e339028c-21d0-404a-a0e8-5ecf9fe966f2.mp3",
+              "FileId": 477240580,
+              "Status": 0
+            },
+            {
+              "Id": 171817101,
+              "Word": "die Waage",
+              "Translation": "весы",
+              "PupilMaterialsId": 16215268,
+              "DateCreate": "2025-09-23T16:25:39.135446",
+              "Audio": "https://media.docstorio.com/files/WordAudios/f48b69a0-6be6-433a-a00b-d4e61b9fce1b.mp3",
+              "FileId": 492623728,
+              "Status": 0
+            },
+            {
+              "Id": 171815912,
+              "Word": "Entschuldigung, wo ist die Kasse?",
+              "Translation": "Извините, а где здесь касса?",
+              "DateCreate": "2025-09-23T16:22:26.414721",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/0f6ed363-9234-42f9-8607-5c3653963aa3.mp3",
+              "FileId": 510704734,
+              "Status": 0,
+              "WordExerciseId": 53845915
+            },
+            {
+              "Id": 171815911,
+              "Word": "Haben Sie auch...? (z.B. Duschgel)",
+              "Translation": "Есть ли у Вас также...?",
+              "DateCreate": "2025-09-23T16:22:26.40472",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/f7ec25c3-996f-4ee9-b672-1b341784d883.mp3",
+              "FileId": 510704740,
+              "Status": 0,
+              "WordExerciseId": 53845916
+            },
+            {
+              "Id": 171815910,
+              "Word": "Wo finde ich...? (z.B. die Tiefkühlkost)",
+              "Translation": "Где я могу найти...?",
+              "DateCreate": "2025-09-23T16:22:26.39472",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/f11c8dc6-c52f-4bb6-aa64-dd9b80555a3a.mp3",
+              "FileId": 510704743,
+              "Status": 0,
+              "WordExerciseId": 53845917
+            },
+            {
+              "Id": 171815909,
+              "Word": "Haben Sie...?",
+              "Translation": "Есть ли у Вас...?",
+              "DateCreate": "2025-09-23T16:22:26.384719",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/3d37e19c-eabb-44df-9237-7da8ec3f3df6.mp3",
+              "FileId": 510704759,
+              "Status": 0,
+              "WordExerciseId": 53977788
+            },
+            {
+              "Id": 171815908,
+              "Word": "Ist das reduziert?",
+              "Translation": "Это по скидке?",
+              "DateCreate": "2025-09-23T16:22:26.374718",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/35e1655c-47bd-45c2-87d3-bdfb499d2298.mp3",
+              "FileId": 510704748,
+              "Status": 0,
+              "WordExerciseId": 53845918
+            },
+            {
+              "Id": 171815907,
+              "Word": "Ist das im Angebot?",
+              "Translation": "Это по скидке?",
+              "DateCreate": "2025-09-23T16:22:26.364718",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/9e3852f1-026a-49e7-9bc8-067cc328bbf8.mp3",
+              "FileId": 510704766,
+              "Status": 0,
+              "WordExerciseId": 53977789
+            },
+            {
+              "Id": 171815906,
+              "Word": "Kann ich den Artikel umtauschen?",
+              "Translation": "Могу ли я поменять товар?",
+              "DateCreate": "2025-09-23T16:22:26.354717",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/26e103a5-14d4-4b53-9b49-72b4bb0ef061.mp3",
+              "FileId": 510704751,
+              "Status": 0,
+              "WordExerciseId": 53845919
+            },
+            {
+              "Id": 171815905,
+              "Word": "Haben Sie den Kassenbon noch?",
+              "Translation": "Вы сохранили чек?",
+              "DateCreate": "2025-09-23T16:22:26.344716",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/715d34b0-e788-4d7d-ad2b-e3cc1ced97de.mp3",
+              "FileId": 510704756,
+              "Status": 0,
+              "WordExerciseId": 53845920
+            },
+            {
+              "Id": 171815904,
+              "Word": "Darf es noch etwas sein?",
+              "Translation": "Что-то еще?",
+              "DateCreate": "2025-09-23T16:22:26.334715",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/4403a6a0-9ac6-4d18-989b-b5e816488a0d.mp3",
+              "FileId": 510704770,
+              "Status": 0,
+              "WordExerciseId": 53977790
+            },
+            {
+              "Id": 171815903,
+              "Word": "Wo kann ich das (z.B. die Tomaten) wiegen?",
+              "Translation": "Где я могу взвесить?",
+              "DateCreate": "2025-09-23T16:22:26.324713",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/35d5f0a2-52e4-4d42-991e-0b6bb81d6fca.mp3",
+              "FileId": 510704727,
+              "Status": 0,
+              "WordExerciseId": 53986141
+            },
+            {
+              "Id": 171815786,
+              "Word": "Hallo/Guten Tag, das macht dann...",
+              "Translation": "Здравствуйте! С Вас...",
+              "DateCreate": "2025-09-23T16:22:04.969048",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/23f9509f-769f-413f-9dc4-c36c2e168a20.mp3",
+              "FileId": 509618100,
+              "Status": 0,
+              "WordExerciseId": 53845550
+            },
+            {
+              "Id": 171815785,
+              "Word": "Kann ich mit Karte/ (Kreditkarte/EC-Karte) zahlen?",
+              "Translation": "Могу ли я оплатить картой?",
+              "DateCreate": "2025-09-23T16:22:04.959048",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/93df9cb4-2b8b-478a-9e3b-c515007ada71.mp3",
+              "FileId": 509618104,
+              "Status": 0,
+              "WordExerciseId": 53845551
+            },
+            {
+              "Id": 171815784,
+              "Word": "Haben Sie auch Kartenzahlung?",
+              "Translation": "У Вас можно платить картой?",
+              "DateCreate": "2025-09-23T16:22:04.949047",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/187994ad-cb21-4996-bc86-3d8cc486eb2b.mp3",
+              "FileId": 509618110,
+              "Status": 0,
+              "WordExerciseId": 53845552
+            },
+            {
+              "Id": 171815783,
+              "Word": "Stimmt so, danke.",
+              "Translation": "Сдачи не надо, спасибо.",
+              "DateCreate": "2025-09-23T16:22:04.939045",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/4dcdb110-d317-4930-a2c9-a538664bc6c7.mp3",
+              "FileId": 509618113,
+              "Status": 0,
+              "WordExerciseId": 53845553
+            },
+            {
+              "Id": 171815650,
+              "Word": "die Schlange",
+              "Translation": "очередь",
+              "DateCreate": "2025-09-23T16:21:44.022472",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/1a3bdf9c-fb57-4b26-9a47-76dc10e4ff7a.mp3",
+              "FileId": 510612715,
+              "Status": 0,
+              "WordExerciseId": 53845501
+            },
+            {
+              "Id": 171815649,
+              "Word": "in der Schlange stehen",
+              "Translation": "стоять в очереди",
+              "DateCreate": "2025-09-23T16:21:44.012471",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/41739d53-dec1-4f6d-89e7-5bc88e6e1464.mp3",
+              "FileId": 510612716,
+              "Status": 0,
+              "WordExerciseId": 53845502
+            },
+            {
+              "Id": 171815648,
+              "Word": "Stehen Sie an?",
+              "Translation": "Вы стоите?",
+              "DateCreate": "2025-09-23T16:21:44.002471",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/a59e31f5-e60c-49a7-b9f5-a7dde309a520.mp3",
+              "FileId": 510612717,
+              "Status": 0,
+              "WordExerciseId": 53845503
+            },
+            {
+              "Id": 171815647,
+              "Word": "Darf ich...?",
+              "Translation": "Могу ли я...?",
+              "DateCreate": "2025-09-23T16:21:43.99247",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/90c23cda-1a7b-42c9-b91b-efacbbd9f800.mp3",
+              "FileId": 510612718,
+              "Status": 0,
+              "WordExerciseId": 53845504
+            },
+            {
+              "Id": 171815646,
+              "Word": "Einen Moment bitte. Ich komme gleich wieder.",
+              "Translation": "Минутку. Я сейчас приду.",
+              "DateCreate": "2025-09-23T16:21:43.98247",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/de565313-8c71-46bb-b84a-dd6a71654a93.mp3",
+              "FileId": 510612719,
+              "Status": 0,
+              "WordExerciseId": 53845505
+            },
+            {
+              "Id": 171815645,
+              "Word": "Gehen Sie vor.",
+              "Translation": "Проходите. (Когда уступают место в очереди)",
+              "DateCreate": "2025-09-23T16:21:43.972468",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/952bbf21-d3cb-47ab-9b61-5f1e4a004a21.mp3",
+              "FileId": 510612714,
+              "Status": 0,
+              "WordExerciseId": 53977729
+            },
+            {
+              "Id": 171174225,
+              "Word": "die Innenstadt, die Innenstädte",
+              "Translation": "центр города",
+              "DateCreate": "2025-09-19T16:46:47.237162",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/facfc714-55f7-4970-97f3-2427b0ceef80.mp3",
+              "FileId": 538871417,
+              "Status": 0,
+              "WordExerciseId": 59379575
+            },
+            {
+              "Id": 171174224,
+              "Word": "die Kombination, die Kombinationen",
+              "Translation": "сочетание, комбинация",
+              "DateCreate": "2025-09-19T16:46:47.227162",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/7cff85c5-461c-491f-bbe9-d5e58ce4e55c.mp3",
+              "FileId": 538871423,
+              "Status": 0,
+              "WordExerciseId": 59379576
+            },
+            {
+              "Id": 171174223,
+              "Word": "die Konsequenz, die Konsequenzen",
+              "Translation": "последствие, вывод",
+              "DateCreate": "2025-09-19T16:46:47.217161",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/9af7fab5-0c55-4513-8866-109c81e728ef.mp3",
+              "FileId": 538871429,
+              "Status": 0,
+              "WordExerciseId": 59379577
+            },
+            {
+              "Id": 171174222,
+              "Word": "die Linie, die Linien",
+              "Translation": "линия",
+              "DateCreate": "2025-09-19T16:46:47.207161",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/67b41697-6b2f-4055-9822-a0e228f210cf.mp3",
+              "FileId": 538871434,
+              "Status": 0,
+              "WordExerciseId": 59379578
+            },
+            {
+              "Id": 171174221,
+              "Word": "lösen, löste, hat gelöst",
+              "Translation": "решать (напр. проблему)",
+              "DateCreate": "2025-09-19T16:46:47.19716",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/18b1e126-b911-4fdb-b03f-6b4b45ce5830.mp3",
+              "FileId": 538871439,
+              "Status": 0,
+              "WordExerciseId": 59379579
+            },
+            {
+              "Id": 171174220,
+              "Word": "der Lösungsvorschlag, die Lösungsvorschläge",
+              "Translation": "решение проблемы",
+              "DateCreate": "2025-09-19T16:46:47.187159",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/ef1d19da-d80c-4ad4-8a14-9a632dca047a.mp3",
+              "FileId": 538871443,
+              "Status": 0,
+              "WordExerciseId": 59379580
+            },
+            {
+              "Id": 171174219,
+              "Word": "die Luft (Sg.)",
+              "Translation": "воздух",
+              "DateCreate": "2025-09-19T16:46:47.177159",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/6fa68a54-66c8-4dc2-b281-2f19d2603f14.mp3",
+              "FileId": 538871446,
+              "Status": 0,
+              "WordExerciseId": 59379581
+            },
+            {
+              "Id": 171174218,
+              "Word": "das Prozent, die Prozente",
+              "Translation": "процент",
+              "DateCreate": "2025-09-19T16:46:47.167158",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/edcc85f4-3388-42ab-a2bc-3762ef9da7c5.mp3",
+              "FileId": 538871451,
+              "Status": 0,
+              "WordExerciseId": 59379582
+            },
+            {
+              "Id": 171174217,
+              "Word": "der Radfahrer, die Radfahrer",
+              "Translation": "велосипедист",
+              "DateCreate": "2025-09-19T16:46:47.157157",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/633adc8d-3f4b-444d-8d8a-aa19a686b599.mp3",
+              "FileId": 538871459,
+              "Status": 0,
+              "WordExerciseId": 59379583
+            },
+            {
+              "Id": 171174216,
+              "Word": "der Radweg, die Radwege",
+              "Translation": "велосипедная дорожка",
+              "DateCreate": "2025-09-19T16:46:47.147157",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/91fbc953-b8f1-4adb-8448-7ae3e3c51528.mp3",
+              "FileId": 538871461,
+              "Status": 0,
+              "WordExerciseId": 59379584
+            },
+            {
+              "Id": 171174215,
+              "Word": "reduzieren, reduzierte, hat reduziert",
+              "Translation": "снижать",
+              "DateCreate": "2025-09-19T16:46:47.137156",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/50c07893-312e-4154-8ce4-24c138455941.mp3",
+              "FileId": 538871463,
+              "Status": 0,
+              "WordExerciseId": 59379585
+            },
+            {
+              "Id": 171174214,
+              "Word": "die Seilbahn, die Seilbahnen",
+              "Translation": "канатная дорога",
+              "DateCreate": "2025-09-19T16:46:47.127155",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/6cc38dee-85fc-4b8d-a81a-f41e20d4f286.mp3",
+              "FileId": 538871464,
+              "Status": 0,
+              "WordExerciseId": 59379586
+            },
+            {
+              "Id": 171174213,
+              "Word": "sich setzen, setzte sich, hat sich gesetzt",
+              "Translation": "садиться",
+              "DateCreate": "2025-09-19T16:46:47.117154",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/0f39ed1c-658b-45a7-a272-8ba024a75f28.mp3",
+              "FileId": 538871466,
+              "Status": 0,
+              "WordExerciseId": 59379587
+            },
+            {
+              "Id": 171174212,
+              "Word": "der Stadtbewohner, die Stadtbewohner",
+              "Translation": "житель города",
+              "DateCreate": "2025-09-19T16:46:47.107154",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/71ab4151-b772-496d-809f-648ddac0ccf8.mp3",
+              "FileId": 538871470,
+              "Status": 0,
+              "WordExerciseId": 59379588
+            },
+            {
+              "Id": 171174211,
+              "Word": "umweltfreundlich",
+              "Translation": "экологически чистый",
+              "DateCreate": "2025-09-19T16:46:47.097153",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/6d6244b4-62a4-4084-bb75-5cfebc5f3905.mp3",
+              "FileId": 538871476,
+              "Status": 0,
+              "WordExerciseId": 59379589
+            },
+            {
+              "Id": 171174210,
+              "Word": "die Untersuchung, die Untersuchungen",
+              "Translation": "исследование",
+              "DateCreate": "2025-09-19T16:46:47.087153",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/3bd33464-cfe0-445c-bc34-94058e4c511e.mp3",
+              "FileId": 538871484,
+              "Status": 0,
+              "WordExerciseId": 59379590
+            },
+            {
+              "Id": 171174209,
+              "Word": "das Verkehrsproblem, die Verkehrsprobleme",
+              "Translation": "проблема транспорта",
+              "DateCreate": "2025-09-19T16:46:47.077152",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/2764fdc0-b276-493a-acf9-bbe953bc91d5.mp3",
+              "FileId": 538871485,
+              "Status": 0,
+              "WordExerciseId": 59379591
+            },
+            {
+              "Id": 171174208,
+              "Word": "zeigen, zeigte, hat gezeigt (Untersuchungen zeigen, dass …)",
+              "Translation": "показывать (Исследования показывают, что …)",
+              "DateCreate": "2025-09-19T16:46:47.067152",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/fe4fc887-ee5d-4880-a98c-e6a3a0ebb03b.mp3",
+              "FileId": 538871489,
+              "Status": 0,
+              "WordExerciseId": 59379592
+            },
+            {
+              "Id": 171174207,
+              "Word": "allgemein",
+              "Translation": "общий",
+              "DateCreate": "2025-09-19T16:46:47.057151",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/c492bbfd-7a7d-47f4-a870-6393562b2b84.mp3",
+              "FileId": 538871341,
+              "Status": 0,
+              "WordExerciseId": 59381061
+            },
+            {
+              "Id": 171174206,
+              "Word": "dafür sein",
+              "Translation": "быть за (что-то, кого-то)",
+              "DateCreate": "2025-09-19T16:46:47.04715",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/bcab7135-124f-47c9-9d8c-7994ec63e241.mp3",
+              "FileId": 538871345,
+              "Status": 0,
+              "WordExerciseId": 59381062
+            },
+            {
+              "Id": 171174205,
+              "Word": "dagegen sein",
+              "Translation": "быть против (что-то, кого-то)",
+              "DateCreate": "2025-09-19T16:46:47.03715",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/24371b0a-10be-4c4c-bdbf-1ddf16c23c80.mp3",
+              "FileId": 538871347,
+              "Status": 0,
+              "WordExerciseId": 59381063
+            },
+            {
+              "Id": 171174204,
+              "Word": "gegen + Akk. (Ich bin gegen Autos im Stadtzentrum.)",
+              "Translation": "против, от (Я против автомобилей в центре города.)",
+              "DateCreate": "2025-09-19T16:46:47.027149",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/d4a968f2-ab85-4a5b-ae97-0b0b4d3c01fb.mp3",
+              "FileId": 538871350,
+              "Status": 0,
+              "WordExerciseId": 59381064
+            },
+            {
+              "Id": 171174203,
+              "Word": "die Meinung, die Meinungen (Ich bin der Meinung, dass …)",
+              "Translation": "мнение (Я придерживаюсь мнения, что …)",
+              "DateCreate": "2025-09-19T16:46:47.017144",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/51a208ce-7c1b-45e0-ae27-c66ce2e2696c.mp3",
+              "FileId": 538871353,
+              "Status": 0,
+              "WordExerciseId": 59381065
+            },
+            {
+              "Id": 171174202,
+              "Word": "sinnvoll",
+              "Translation": "целесообразный",
+              "DateCreate": "2025-09-19T16:46:47.007142",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/e50ad73f-9710-4b1a-af0d-061d3d039361.mp3",
+              "FileId": 538871356,
+              "Status": 0,
+              "WordExerciseId": 59381066
+            },
+            {
+              "Id": 171174201,
+              "Word": "unpraktisch",
+              "Translation": "непрактичный",
+              "DateCreate": "2025-09-19T16:46:46.997141",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/9bb9b3eb-d4f9-4a33-b13b-9eff747e5718.mp3",
+              "FileId": 538871359,
+              "Status": 0,
+              "WordExerciseId": 59381067
+            }
+          ],
+          "PupilIdInGroup": 2976404
+        }
+      },
+      "ErrorCode": 0,
+      "RequestId": "efc1a8fd-6785-4a22-8e83-78a387f3301b",
+      "ConnectionId": "5728e6cf-1d42-4a5c-bca0-eb7766d0b784",
+      "IsSuccess": true,
+      "ProjectName": "Vocabulary"
+    },
+
+    {
+      "Method": "GetVocabulary",
+      "Class": "WordWsController",
+      "Value": {
+        "Vocabulary": {
+          "Count": 231,
+          "Items": [
+            {
+              "Id": 170580243,
+              "Word": "die PIN, die PINs",
+              "Translation": "ПИН",
+              "DateCreate": "2025-09-16T17:23:37.984871",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/360756e4-5ebb-4907-bbcd-20828afdb607.mp3",
+              "FileId": 535540555,
+              "Status": 0,
+              "WordExerciseId": 58691022
+            },
+            {
+              "Id": 170580242,
+              "Word": "sich registrieren bei + Dat., registrierte sich, hat sich registriert",
+              "Translation": "регистрироваться",
+              "DateCreate": "2025-09-16T17:23:37.97487",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/67c54426-b053-4ee3-8408-98751a979d1e.mp3",
+              "FileId": 535540562,
+              "Status": 0,
+              "WordExerciseId": 58691023
+            },
+            {
+              "Id": 170580241,
+              "Word": "der Tarif, die Tarife",
+              "Translation": "тариф",
+              "DateCreate": "2025-09-16T17:23:37.964869",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/88b898e3-7090-4d3a-932f-630196ef69c9.mp3",
+              "FileId": 535540568,
+              "Status": 0,
+              "WordExerciseId": 58691024
+            },
+            {
+              "Id": 170580240,
+              "Word": "die Werbung, die Werbungen",
+              "Translation": "реклама",
+              "DateCreate": "2025-09-16T17:23:37.954868",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/7e9676dd-e9b2-47ac-bd06-a9384eb01a64.mp3",
+              "FileId": 535540574,
+              "Status": 0,
+              "WordExerciseId": 58691025
+            },
+            {
+              "Id": 170580239,
+              "Word": "abstellen, stellte ab, hat abgestellt",
+              "Translation": "оставлять (что-то где-то), здесь: парковать",
+              "DateCreate": "2025-09-16T17:23:37.944868",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/21dc16f1-ffe3-4804-b08a-66625ccc9c7d.mp3",
+              "FileId": 535540583,
+              "Status": 0,
+              "WordExerciseId": 58691026
+            },
+            {
+              "Id": 170580238,
+              "Word": "direkt (ein direkter Fragesatz)",
+              "Translation": "прямой (прямое вопросительное предложение)",
+              "DateCreate": "2025-09-16T17:23:37.934867",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/a82d8629-5567-4d6f-b4f9-0ff83f77affd.mp3",
+              "FileId": 535540590,
+              "Status": 0,
+              "WordExerciseId": 58691027
+            },
+            {
+              "Id": 170580237,
+              "Word": "erreichen, erreichte, hat erreicht",
+              "Translation": "достигать, заставать (кого-то), связываться с (кем-то)",
+              "DateCreate": "2025-09-16T17:23:37.924866",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/84113743-32b2-4406-bf8b-abcba44dbecf.mp3",
+              "FileId": 535540600,
+              "Status": 0,
+              "WordExerciseId": 58691028
+            },
+            {
+              "Id": 170580236,
+              "Word": "die Fahrt, die Fahrten",
+              "Translation": "поездка",
+              "DateCreate": "2025-09-16T17:23:37.914865",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/4c0ec065-eaf0-4f34-acc8-c72f0b75c4df.mp3",
+              "FileId": 535540605,
+              "Status": 0,
+              "WordExerciseId": 58691029
+            },
+            {
+              "Id": 170580235,
+              "Word": "die Kaution, die Kautionen",
+              "Translation": "залог, обеспечительный взнос (при аренде помещения)",
+              "DateCreate": "2025-09-16T17:23:37.904864",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/87c3a1b3-43e5-4f0f-9883-5b631f7f225e.mp3",
+              "FileId": 535540615,
+              "Status": 0,
+              "WordExerciseId": 58691030
+            },
+            {
+              "Id": 170580234,
+              "Word": "der Kundenservice, die Kundenservices",
+              "Translation": "сервис для клиентов",
+              "DateCreate": "2025-09-16T17:23:37.894864",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/e5c989ed-a0e7-45d7-b01f-eacc3fb804d0.mp3",
+              "FileId": 535540623,
+              "Status": 0,
+              "WordExerciseId": 58691031
+            },
+            {
+              "Id": 170580233,
+              "Word": "nötig",
+              "Translation": "необходимый, требуемый",
+              "DateCreate": "2025-09-16T17:23:37.884863",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/d343acd3-b3f0-4657-a5da-9a92965d1d44.mp3",
+              "FileId": 535540626,
+              "Status": 0,
+              "WordExerciseId": 58691032
+            },
+            {
+              "Id": 170580232,
+              "Word": "ob (Ich möchte gern wissen, ob ich das Auto überall abstellen kann.)",
+              "Translation": "ли (Я хотел бы узнать, могу ли я припарковать машину где угодно.)",
+              "DateCreate": "2025-09-16T17:23:37.874862",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/b4eda6ea-b624-49bf-9e80-86ab29a4f652.mp3",
+              "FileId": 535540630,
+              "Status": 0,
+              "WordExerciseId": 58691033
+            },
+            {
+              "Id": 170580231,
+              "Word": "telefonisch",
+              "Translation": "по телефону",
+              "DateCreate": "2025-09-16T17:23:37.86486",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/ebd394b1-09df-41a5-a18b-230f55d0f277.mp3",
+              "FileId": 535540637,
+              "Status": 0,
+              "WordExerciseId": 58691034
+            },
+            {
+              "Id": 170580230,
+              "Word": "unterschiedlich",
+              "Translation": "различно, различный",
+              "DateCreate": "2025-09-16T17:23:37.854859",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/68a2b3eb-40d1-4af5-9661-4d8a6e8632d5.mp3",
+              "FileId": 535540642,
+              "Status": 0,
+              "WordExerciseId": 58691035
+            },
+            {
+              "Id": 170580229,
+              "Word": "versichert",
+              "Translation": "застрахованный",
+              "DateCreate": "2025-09-16T17:23:37.844859",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/0d933e6b-e510-4bc3-a4b3-963a4c8cc12c.mp3",
+              "FileId": 535540651,
+              "Status": 0,
+              "WordExerciseId": 58691036
+            },
+            {
+              "Id": 170580228,
+              "Word": "schon mal",
+              "Translation": "уже хоть раз",
+              "DateCreate": "2025-09-16T17:23:37.834858",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/6d7f65e3-7b71-4dd9-8c86-1c4f400f0931.mp3",
+              "FileId": 535540654,
+              "Status": 0,
+              "WordExerciseId": 58691037
+            },
+            {
+              "Id": 170580227,
+              "Word": "das Konzept, die Konzepte",
+              "Translation": "концепт",
+              "DateCreate": "2025-09-16T17:23:37.824855",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/53f76fe2-ddbd-4b2a-b807-2588575258c9.mp3",
+              "FileId": 535540656,
+              "Status": 0,
+              "WordExerciseId": 58691038
+            },
+            {
+              "Id": 169850046,
+              "Word": "halten, hielt, hat gehalten",
+              "Translation": "останавливаться",
+              "DateCreate": "2025-09-11T22:27:27.052844",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/9fecaa49-936b-450b-bb2b-a4fea8b7dad3.mp3",
+              "FileId": 511193274,
+              "Status": 0,
+              "WordExerciseId": 53841347
+            },
+            {
+              "Id": 169850045,
+              "Word": "die Ampel, die Ampeln",
+              "Translation": "светофор",
+              "DateCreate": "2025-09-11T22:27:25.919897",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/cd755a92-b109-4a6a-8fec-e2739beefc15.mp3",
+              "FileId": 511193268,
+              "Status": 0,
+              "WordExerciseId": 53841346
+            },
+            {
+              "Id": 169850044,
+              "Word": "vorhaben, hatte vor, hat vorgehabt",
+              "Translation": "собираться что-то сделать, планировать",
+              "DateCreate": "2025-09-11T22:27:24.65432",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/54c0cf92-ac73-4810-9431-5cd0cbc36b7d.mp3",
+              "FileId": 511193265,
+              "Status": 0,
+              "WordExerciseId": 53841345
+            },
+            {
+              "Id": 169850043,
+              "Word": "versprechen, versprach, hat versprochen",
+              "Translation": "обещать",
+              "DateCreate": "2025-09-11T22:27:23.467806",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/5b852dce-d5b4-4b01-aee1-0f37574b483d.mp3",
+              "FileId": 511193260,
+              "Status": 0,
+              "WordExerciseId": 53841344
+            },
+            {
+              "Id": 169850041,
+              "Word": "Du bist ganz schön schnell!",
+              "Translation": "Ты, однако, быстро!",
+              "DateCreate": "2025-09-11T22:27:22.167182",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/c559dab5-a66a-47c1-aa8b-96a2ddfc1f7b.mp3",
+              "FileId": 511193253,
+              "Status": 0,
+              "WordExerciseId": 53841343
+            },
+            {
+              "Id": 169850040,
+              "Word": "der Konzertsaal, die Konzertsäle",
+              "Translation": "концертный зал",
+              "DateCreate": "2025-09-11T22:27:21.61442",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/567d79fa-51b7-4464-b294-243ae7ed9015.mp3",
+              "FileId": 511193245,
+              "Status": 0,
+              "WordExerciseId": 53841342
+            },
+            {
+              "Id": 169849818,
+              "Word": "Auftrag",
+              "Translation": "Order",
+              "PupilMaterialsId": 15956951,
+              "DateCreate": "2025-09-11T22:08:35.898273",
+              "Audio": "https://media.docstorio.com/files/WordAudios/8565e71c-f056-41e8-a866-5d87c0eaef68.mp3",
+              "FileId": 469692894,
+              "Status": 0
+            },
+            {
+              "Id": 169849816,
+              "Word": "erledigen",
+              "Translation": "get it done",
+              "PupilMaterialsId": 15956951,
+              "DateCreate": "2025-09-11T22:08:13.88348",
+              "Audio": "https://media.docstorio.com/files/WordAudios/1f0339f6-46b2-4000-a03b-2802bddee251.mp3",
+              "FileId": 487761973,
+              "Status": 0
+            },
+            {
+              "Id": 169849801,
+              "Word": "Sorge",
+              "Translation": "Worry",
+              "PupilMaterialsId": 15956951,
+              "DateCreate": "2025-09-11T22:05:13.780563",
+              "Audio": "https://media.docstorio.com/files/WordAudios/51c11f2d-34c3-41b6-9195-5f4423d1145d.mp3",
+              "FileId": 472571703,
+              "Status": 0
+            },
+            {
+              "Id": 169454868,
+              "Word": "im Stau stehen",
+              "Translation": "стоять в пробке",
+              "PupilMaterialsId": 15956951,
+              "DateCreate": "2025-09-09T17:09:15.249664",
+              "Audio": "https://media.docstorio.com/files/WordAudios/42cfed0f-1f11-4336-8d5c-f5209d6c2903.mp3",
+              "FileId": 478688861,
+              "Status": 0
+            },
+            {
+              "Id": 169454767,
+              "Word": "der Stau, die Staus",
+              "Translation": "the traffic jam, the traffic jams",
+              "PupilMaterialsId": 15956951,
+              "DateCreate": "2025-09-09T17:08:55.167839",
+              "Audio": "https://media.docstorio.com/files/WordAudios/77c91f3f-7a77-4ae2-8b9a-5d5ebf04ebc1.mp3",
+              "FileId": 487597059,
+              "Status": 0
+            },
+            {
+              "Id": 169452423,
+              "Word": "bitten",
+              "Translation": "просить",
+              "PupilMaterialsId": 15891017,
+              "DateCreate": "2025-09-09T17:00:02.913004",
+              "Audio": "https://media.docstorio.com/files/WordAudios/103b50a3-ce54-4d56-a498-baf8f843233d.mp3",
+              "FileId": 489070586,
+              "Status": 0
+            },
+            {
+              "Id": 169451741,
+              "Word": "darum",
+              "Translation": "therefore",
+              "PupilMaterialsId": 15891017,
+              "DateCreate": "2025-09-09T16:57:32.32103",
+              "Audio": "https://media.docstorio.com/files/WordAudios/277cc7da-f588-4968-ad13-78b2b49f8d6e.mp3",
+              "FileId": 481161574,
+              "Status": 0
+            },
+            {
+              "Id": 169451197,
+              "Word": "Geld abheben",
+              "Translation": "снимать деньги",
+              "PupilMaterialsId": 15891017,
+              "DateCreate": "2025-09-09T16:56:09.896189",
+              "Audio": "https://media.docstorio.com/files/WordAudios/5ef39734-25c4-4b63-aa60-b21cbda0ef08.mp3",
+              "FileId": 493150635,
+              "Status": 0
+            }
+          ],
+          "PupilIdInGroup": 2976404
+        }
+      },
+      "ErrorCode": 0,
+      "RequestId": "6168159f-f547-42d8-b74e-eb84933854a3",
+      "ConnectionId": "5728e6cf-1d42-4a5c-bca0-eb7766d0b784",
+      "IsSuccess": true,
+      "ProjectName": "Vocabulary"
+    }
+  ],
+
+  "learned": [
+    {
+      "Method": "GetLearnedVocabulary",
+      "Class": "WordWsController",
+      "Value": {
+        "Data": {
+          "Count": 134,
+          "Items": [
+            {
+              "Id": 173696432,
+              "Word": "das Filmprojekt, die Filmprojekte",
+              "Translation": "кинопроект",
+              "DateCreate": "2025-10-05T18:06:53.829119",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/1ff4e960-2dfe-45e4-85f9-84265a097bc3.mp3",
+              "FileId": 545574972,
+              "Status": 2,
+              "WordExerciseId": 60484461
+            },
+            {
+              "Id": 173696431,
+              "Word": "der Kinderfilm, die Kinderfilme",
+              "Translation": "детский фильм",
+              "DateCreate": "2025-10-05T18:06:53.829119",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/732044c3-200b-4d91-b81e-4d26bb10a244.mp3",
+              "FileId": 545574974,
+              "Status": 2,
+              "WordExerciseId": 60484462
+            },
+            {
+              "Id": 173696430,
+              "Word": "der Stummfilm, die Stummfilme",
+              "Translation": "немой фильм",
+              "DateCreate": "2025-10-05T18:06:53.829119",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/63e57b35-1605-4156-82e6-3ac4f6c4aa1f.mp3",
+              "FileId": 545574977,
+              "Status": 2,
+              "WordExerciseId": 60484463
+            },
+            {
+              "Id": 173696429,
+              "Word": "übersetzen, übersetzte, hat übersetzt",
+              "Translation": "переводить (письменно)",
+              "DateCreate": "2025-10-05T18:06:53.829119",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/1436584d-9dee-4f44-97a7-9f834e2d4b47.mp3",
+              "FileId": 545574980,
+              "Status": 2,
+              "WordExerciseId": 60484464
+            },
+            {
+              "Id": 173696428,
+              "Word": "die Übersetzung, die Übersetzungen",
+              "Translation": "перевод",
+              "DateCreate": "2025-10-05T18:06:53.829119",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/ff479734-0936-4372-80d6-5dfc62975284.mp3",
+              "FileId": 545574969,
+              "Status": 2,
+              "WordExerciseId": 60484465
+            },
+            {
+              "Id": 173696427,
+              "Word": "was für ein, was für eine",
+              "Translation": "что за",
+              "DateCreate": "2025-10-05T18:06:53.829119",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/ef7ac626-eee4-4c9b-827d-aedc9ca1c993.mp3",
+              "FileId": 545574970,
+              "Status": 2,
+              "WordExerciseId": 60484466
+            },
+            {
+              "Id": 173692453,
+              "Word": "der/die Angehörige, die Angehörigen",
+              "Translation": "родственник, член семьи",
+              "DateCreate": "2025-10-05T18:06:53.829119",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/e8d0bc7c-3062-4efa-8495-157501994d97.mp3",
+              "FileId": 546912383,
+              "Status": 2,
+              "WordExerciseId": 60484395
+            },
+            {
+              "Id": 173692452,
+              "Word": "an|stellen (Die Firma hat mich für das Projekt angestellt.)",
+              "Translation": "принимать на работу (Компания наняла меня для проекта.)",
+              "DateCreate": "2025-10-05T18:06:53.829119",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/ab77931d-014b-40e5-890b-0f18dcb5665c.mp3",
+              "FileId": 546912384,
+              "Status": 2,
+              "WordExerciseId": 60484396
+            },
+            {
+              "Id": 173692451,
+              "Word": "der Arbeitgeber, die Arbeitgeber",
+              "Translation": "работодатель",
+              "DateCreate": "2025-10-05T18:06:53.829119",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/88ffa385-c4c5-4221-88f0-e5f13d6071fc.mp3",
+              "FileId": 546912388,
+              "Status": 2,
+              "WordExerciseId": 60484397
+            },
+            {
+              "Id": 173692450,
+              "Word": "der Auftrag, die Aufträge",
+              "Translation": "поручение, заказ",
+              "DateCreate": "2025-10-05T18:06:53.829118",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/a4909b80-36db-4de1-a932-913b7c4e5670.mp3",
+              "FileId": 546912393,
+              "Status": 2,
+              "WordExerciseId": 60484398
+            },
+            {
+              "Id": 172248182,
+              "Word": "chinesisch",
+              "Translation": "китайский",
+              "DateCreate": "2025-09-28T21:06:58.219904",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/7e5a201d-b78d-4c3a-873f-9e1f6361fc70.mp3",
+              "FileId": 543219731,
+              "Status": 2,
+              "WordExerciseId": 59910113
+            },
+            {
+              "Id": 172248181,
+              "Word": "die Schrift, die Stiften",
+              "Translation": "почерк, буквы, написание",
+              "DateCreate": "2025-09-28T21:06:58.219904",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/0d532efe-35fb-4bff-a517-72b3e9e57ab9.mp3",
+              "FileId": 543219733,
+              "Status": 2,
+              "WordExerciseId": 59910114
+            },
+            {
+              "Id": 172248180,
+              "Word": "abonnieren",
+              "Translation": "выписывать",
+              "DateCreate": "2025-09-28T21:06:58.219904",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/f20b8cb9-eda8-4def-8cf6-52e73ac9c889.mp3",
+              "FileId": 543219734,
+              "Status": 2,
+              "WordExerciseId": 59910115
+            },
+            {
+              "Id": 172248179,
+              "Word": "bearbeiten (Er bearbeitet Fotos am Computer.)",
+              "Translation": "обрабатывать (Он обрабатывает фотографии на компьютере.)",
+              "DateCreate": "2025-09-28T21:06:58.219904",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/8a8f1f98-f2f0-4a66-926b-5c6b419be27a.mp3",
+              "FileId": 543219735,
+              "Status": 2,
+              "WordExerciseId": 59910116
+            },
+            {
+              "Id": 172248178,
+              "Word": "sich beschweren über + Akk.",
+              "Translation": "жаловаться",
+              "DateCreate": "2025-09-28T21:06:58.219904",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/5c76ff6e-af9f-4b01-9590-7f1d39c0de24.mp3",
+              "FileId": 543219737,
+              "Status": 2,
+              "WordExerciseId": 59910117
+            },
+            {
+              "Id": 172248177,
+              "Word": "dabei haben",
+              "Translation": "иметь при себе",
+              "DateCreate": "2025-09-28T21:06:58.219903",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/d4de77d5-b95c-4f8f-8062-c4d0d1af497d.mp3",
+              "FileId": 543219743,
+              "Status": 2,
+              "WordExerciseId": 59910118
+            },
+            {
+              "Id": 172248176,
+              "Word": "die Disziplin (Sg.)",
+              "Translation": "дисциплина",
+              "DateCreate": "2025-09-28T21:06:58.219903",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/916687c4-d8c3-44f8-ba38-5cf832eef2c9.mp3",
+              "FileId": 543219746,
+              "Status": 2,
+              "WordExerciseId": 59910119
+            },
+            {
+              "Id": 172248175,
+              "Word": "die Einführung, die Einführungen",
+              "Translation": "введение, вступление, здесь: ознакомление",
+              "DateCreate": "2025-09-28T21:06:58.219903",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/23ed9a66-0dc1-4e4d-abfc-c0e19d9a02ca.mp3",
+              "FileId": 543219750,
+              "Status": 2,
+              "WordExerciseId": 59910120
+            },
+            {
+              "Id": 172248174,
+              "Word": "gebraucht",
+              "Translation": "бывший в употреблении",
+              "DateCreate": "2025-09-28T21:06:58.219903",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/31944c10-5b59-4815-80c1-8c75347bfcaa.mp3",
+              "FileId": 543219754,
+              "Status": 2,
+              "WordExerciseId": 59910121
+            },
+            {
+              "Id": 172248173,
+              "Word": "die Gitarre, -n",
+              "Translation": "гитара",
+              "DateCreate": "2025-09-28T21:06:58.219903",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/24aea1fa-e13d-42e6-8b75-5c4a4d32ffdc.mp3",
+              "FileId": 543219759,
+              "Status": 2,
+              "WordExerciseId": 59910122
+            },
+            {
+              "Id": 172691766,
+              "Word": "notwendig",
+              "Translation": "необходимый",
+              "DateCreate": "2025-09-28T21:01:48.846193",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/7f64f58e-1dbb-4ca7-b8bf-83a1362b050f.mp3",
+              "FileId": 543145828,
+              "Status": 2
+            },
+            {
+              "Id": 172691765,
+              "Word": "pensioniert",
+              "Translation": "на пенсии",
+              "DateCreate": "2025-09-28T21:01:48.846193",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/e446af71-380f-4033-bef5-27faeee41ed4.mp3",
+              "FileId": 543145831,
+              "Status": 2
+            },
+            {
+              "Id": 172691764,
+              "Word": "prima",
+              "Translation": "отличный, классный",
+              "DateCreate": "2025-09-28T21:01:48.846193",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/0ff16cd5-f2a7-459b-884e-6bc069471c66.mp3",
+              "FileId": 543145834,
+              "Status": 2
+            },
+            {
+              "Id": 172691763,
+              "Word": "die Qualität, die Qualitäten",
+              "Translation": "качество",
+              "DateCreate": "2025-09-28T21:01:48.846193",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/1ceee4d2-62ff-4a3b-acd7-3ae2426e0af1.mp3",
+              "FileId": 543145839,
+              "Status": 2
+            },
+            {
+              "Id": 172691762,
+              "Word": "die Rente, die Renten",
+              "Translation": "пенсия",
+              "DateCreate": "2025-09-28T21:01:48.846193",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/5ab093e3-6bd0-49a0-b775-634a0773786c.mp3",
+              "FileId": 543145843,
+              "Status": 2
+            },
+            {
+              "Id": 172691761,
+              "Word": "sowieso",
+              "Translation": "в любом случае, так или иначе",
+              "DateCreate": "2025-09-28T21:01:48.846193",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/4a0b7c12-5fae-44a4-bd01-10c3e6571c1b.mp3",
+              "FileId": 543145845,
+              "Status": 2
+            },
+            {
+              "Id": 172691760,
+              "Word": "weiterwissen, er weiß weiter, wusste weiter, hat weitergewusst",
+              "Translation": "знать, как поступить дальше",
+              "DateCreate": "2025-09-28T21:01:48.846193",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/00051cb4-7197-4409-9571-fa8d0284f748.mp3",
+              "FileId": 543145848,
+              "Status": 2
+            },
+            {
+              "Id": 172250703,
+              "Word": "eingehen, ging ein, ist eingegangen",
+              "Translation": "увядать, умирать",
+              "PupilMaterialsId": 16215220,
+              "DateCreate": "2025-09-28T21:01:48.846193",
+              "Audio": "https://media.docstorio.com/files/WordAudios/6f779576-855b-4e7a-8bb2-52e38b535ada.mp3",
+              "FileId": 541864058,
+              "Status": 2
+            },
+            {
+              "Id": 172250490,
+              "Word": "sterben, starb, ist gestorben",
+              "Translation": "умирать",
+              "PupilMaterialsId": 16215220,
+              "DateCreate": "2025-09-28T21:01:48.846193",
+              "Audio": "https://media.docstorio.com/files/WordAudios/75d2c08b-3551-4fab-b329-0fa7889becd6.mp3",
+              "FileId": 496368439,
+              "Status": 2
+            },
+            {
+              "Id": 172249410,
+              "Word": "gärtnern",
+              "Translation": "заниматься садом, работать в саду",
+              "PupilMaterialsId": 16215220,
+              "DateCreate": "2025-09-28T21:01:48.846192",
+              "Audio": "https://media.docstorio.com/files/WordAudios/3b0b3680-906e-43f6-b829-256881eb65dc.mp3",
+              "FileId": 492115145,
+              "Status": 2
+            },
+            {
+              "Id": 171174230,
+              "Word": "elektrisch",
+              "Translation": "электрический",
+              "DateCreate": "2025-09-22T18:41:21.959708",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/290cd03a-ca1a-44b5-b8d1-aa54aa47f4ef.mp3",
+              "FileId": 538871382,
+              "Status": 2,
+              "WordExerciseId": 59379570
+            },
+            {
+              "Id": 171174229,
+              "Word": "der Experte, die Experten",
+              "Translation": "эксперт",
+              "DateCreate": "2025-09-22T18:41:21.959708",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/39f2c626-5d6e-42ff-8ae1-89f4977bbfdc.mp3",
+              "FileId": 538871390,
+              "Status": 2,
+              "WordExerciseId": 59379571
+            },
+            {
+              "Id": 171174228,
+              "Word": "Es geht auch anders.",
+              "Translation": "Есть и другой способ.",
+              "DateCreate": "2025-09-22T18:41:21.959708",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/907d8ca4-6c4f-44d4-86cf-7857566db1b5.mp3",
+              "FileId": 538871397,
+              "Status": 2,
+              "WordExerciseId": 59379572
+            },
+            {
+              "Id": 171174227,
+              "Word": "die Großstadt, die Großstädte",
+              "Translation": "большой город, мегаполис",
+              "DateCreate": "2025-09-22T18:41:21.959708",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/c5a1bd93-1676-4152-a152-259e49c8ec92.mp3",
+              "FileId": 538871407,
+              "Status": 2,
+              "WordExerciseId": 59379573
+            },
+            {
+              "Id": 171174226,
+              "Word": "in Zukunft",
+              "Translation": "в будущем",
+              "DateCreate": "2025-09-22T18:41:21.959707",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/8120f7f9-bf35-43f3-8f78-aff4bd0615b6.mp3",
+              "FileId": 538871414,
+              "Status": 2,
+              "WordExerciseId": 59379574
+            },
+            {
+              "Id": 171178263,
+              "Word": "verbieten, verbot, hat verboten",
+              "Translation": "запрещать",
+              "PupilMaterialsId": 15956951,
+              "DateCreate": "2025-09-22T18:38:53.654169",
+              "Audio": "https://media.docstorio.com/files/WordAudios/83977eae-44ac-4042-b6a1-1ef51fb85f60.mp3",
+              "FileId": 521712118,
+              "Status": 2
+            },
+            {
+              "Id": 171176340,
+              "Word": "wenig",
+              "Translation": "few",
+              "PupilMaterialsId": 15956951,
+              "DateCreate": "2025-09-22T18:38:53.654169",
+              "Audio": "https://media.docstorio.com/files/WordAudios/538f375d-b314-4301-b3d4-e72098477e74.mp3",
+              "FileId": 447275018,
+              "Status": 2
+            },
+            {
+              "Id": 171174233,
+              "Word": "der Artikel, die Artikel (Ich lese einen Artikel in der Zeitung.)",
+              "Translation": "статья (Я читаю статью в газете.)",
+              "DateCreate": "2025-09-22T18:38:53.654169",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/b532091d-6c52-4fa8-8735-4de66ca37592.mp3",
+              "FileId": 538871366,
+              "Status": 2,
+              "WordExerciseId": 59379567
+            },
+            {
+              "Id": 171174232,
+              "Word": "dorthin",
+              "Translation": "туда",
+              "DateCreate": "2025-09-22T18:38:53.654168",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/19754155-9058-4e32-9b92-97bba53ad268.mp3",
+              "FileId": 538871371,
+              "Status": 2,
+              "WordExerciseId": 59379568
+            },
+            {
+              "Id": 171174231,
+              "Word": "das E-Bike, die E-Bikes",
+              "Translation": "электровелосипед",
+              "DateCreate": "2025-09-22T18:38:53.654167",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/58ce8c0f-0bae-4f34-83ae-bd8f2f91a8e4.mp3",
+              "FileId": 538871377,
+              "Status": 2,
+              "WordExerciseId": 59379569
+            },
+            {
+              "Id": 171180864,
+              "Word": "die Zugfahrt, die Zugfahrten",
+              "Translation": "поездка на поезде",
+              "DateCreate": "2025-09-22T18:28:43.690686",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/6e197953-870b-4b4b-abaa-96ba42fb180c.mp3",
+              "FileId": 538874779,
+              "Status": 2,
+              "WordExerciseId": 59381292
+            },
+            {
+              "Id": 171180863,
+              "Word": "hinten",
+              "Translation": "взади, позади",
+              "DateCreate": "2025-09-22T18:28:43.690686",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/f18807a8-b457-4641-8f6b-82c0b3f1dc89.mp3",
+              "FileId": 538874782,
+              "Status": 2,
+              "WordExerciseId": 59381293
+            },
+            {
+              "Id": 171180862,
+              "Word": "die Schlange, die Schlangen",
+              "Translation": "очередь",
+              "DateCreate": "2025-09-22T18:28:43.690686",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/552e5825-693e-43fc-9543-bc2f353a22a1.mp3",
+              "FileId": 538874786,
+              "Status": 2,
+              "WordExerciseId": 59381294
+            },
+            {
+              "Id": 171180861,
+              "Word": "vorn, vorne",
+              "Translation": "впереди",
+              "DateCreate": "2025-09-22T18:28:43.690686",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/dd6a0f64-3eba-425a-89e5-1d4b8d9f4236.mp3",
+              "FileId": 538874788,
+              "Status": 2,
+              "WordExerciseId": 59381295
+            },
+            {
+              "Id": 171178742,
+              "Word": "weit",
+              "Translation": "далеко",
+              "PupilMaterialsId": 15956951,
+              "DateCreate": "2025-09-22T18:28:43.690685",
+              "Audio": "https://media.docstorio.com/files/WordAudios/d5064af0-fdc4-4d16-9dd8-d901998dc18d.mp3",
+              "FileId": 435516823,
+              "Status": 2
+            },
+            {
+              "Id": 171180869,
+              "Word": "das Gewitter, die Gewitter",
+              "Translation": "гроза",
+              "DateCreate": "2025-09-22T18:26:53.141611",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/dea90b3f-a282-4bed-af62-318a6b4be7e3.mp3",
+              "FileId": 538874753,
+              "Status": 2,
+              "WordExerciseId": 59381287
+            },
+            {
+              "Id": 171180868,
+              "Word": "das Glatteis (Sg.)",
+              "Translation": "гололедица",
+              "DateCreate": "2025-09-22T18:26:53.141611",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/119eade4-e1e2-4ae6-9b2e-81f0c7092afa.mp3",
+              "FileId": 538874757,
+              "Status": 2,
+              "WordExerciseId": 59381288
+            },
+            {
+              "Id": 171180867,
+              "Word": "pendeln, pendelte, ist gependelt",
+              "Translation": "здесь: ездить туда и сюда (напр. если живешь за городом, ездишь на работу и обратно каждый день)",
+              "DateCreate": "2025-09-22T18:26:53.141611",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/cca86c31-e78f-4621-9d0e-71bc0d2f316d.mp3",
+              "FileId": 538874761,
+              "Status": 2,
+              "WordExerciseId": 59381289
+            },
+            {
+              "Id": 171180866,
+              "Word": "die Richtung, die Richtungen",
+              "Translation": "направление",
+              "DateCreate": "2025-09-22T18:26:53.141611",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/07b43325-7921-4998-ada7-2525c15367c9.mp3",
+              "FileId": 538874764,
+              "Status": 2,
+              "WordExerciseId": 59381290
+            },
+            {
+              "Id": 171180865,
+              "Word": "sogar",
+              "Translation": "даже",
+              "DateCreate": "2025-09-22T18:26:53.141609",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/7859e9ba-ef07-4ad9-81fa-8d1fecb8b14e.mp3",
+              "FileId": 538874771,
+              "Status": 2,
+              "WordExerciseId": 59381291
+            },
+            {
+              "Id": 171181695,
+              "Word": "außerdem",
+              "Translation": "кроме того",
+              "PupilMaterialsId": 15956951,
+              "DateCreate": "2025-09-21T20:19:04.712353",
+              "Audio": "https://media.docstorio.com/files/WordAudios/1fd6138a-af25-4894-a493-5f7bf47b39d6.mp3",
+              "FileId": 487698232,
+              "Status": 2
+            },
+            {
+              "Id": 171181524,
+              "Word": "wach sein",
+              "Translation": "быть бодрым",
+              "PupilMaterialsId": 15956951,
+              "DateCreate": "2025-09-21T20:19:04.712353",
+              "Audio": "https://media.docstorio.com/files/WordAudios/8f171ca1-608c-49ab-9ae5-a92636207aab.mp3",
+              "FileId": 483708643,
+              "Status": 2
+            },
+            {
+              "Id": 171180872,
+              "Word": "brauchen (Wie lange brauchst du für den Weg zur Arbeit?)",
+              "Translation": "нуждаться (Сколько тебе нужно времени на дорогу на работу?)",
+              "DateCreate": "2025-09-21T20:19:04.712353",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/f39090f2-1fb1-4e8d-89f6-5ae4c9a917f3.mp3",
+              "FileId": 538874745,
+              "Status": 2,
+              "WordExerciseId": 59381284
+            },
+            {
+              "Id": 171180871,
+              "Word": "d. h. (das heißt)",
+              "Translation": "другими словами (другими словами)",
+              "DateCreate": "2025-09-21T20:19:04.712353",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/42daece8-3664-4d01-bf5e-55693e597880.mp3",
+              "FileId": 538874748,
+              "Status": 2,
+              "WordExerciseId": 59381285
+            },
+            {
+              "Id": 171180870,
+              "Word": "etwa",
+              "Translation": "приблизительно",
+              "DateCreate": "2025-09-21T20:19:04.712352",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/6bc92de3-5996-43cf-93f3-e98b25d5d3d6.mp3",
+              "FileId": 538874750,
+              "Status": 2,
+              "WordExerciseId": 59381286
+            },
+            {
+              "Id": 170587347,
+              "Word": "dort",
+              "Translation": "there",
+              "PupilMaterialsId": 15956951,
+              "DateCreate": "2025-09-18T17:45:22.014003",
+              "Audio": "https://media.docstorio.com/files/WordAudios/43967f71-f5f2-45ff-baed-10e0c6a916c1.mp3",
+              "FileId": 488403531,
+              "Status": 2
+            },
+            {
+              "Id": 170587246,
+              "Word": "fast",
+              "Translation": "almost",
+              "PupilMaterialsId": 15956951,
+              "DateCreate": "2025-09-18T17:45:22.014003",
+              "Audio": "https://media.docstorio.com/files/WordAudios/114efc06-06c3-48d1-9b0a-6fbb693d6826.mp3",
+              "FileId": 478382859,
+              "Status": 2
+            },
+            {
+              "Id": 170580246,
+              "Word": "der Bordcomputer, die Bordcomputer",
+              "Translation": "бортовой компьютер",
+              "DateCreate": "2025-09-18T17:45:22.014002",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/1384d7b5-996b-4aba-8b63-daeb4b77bebe.mp3",
+              "FileId": 535540548,
+              "Status": 2,
+              "WordExerciseId": 58691019
+            },
+            {
+              "Id": 170580245,
+              "Word": "der E-Scooter, die E-Scooter",
+              "Translation": "электросамокат",
+              "DateCreate": "2025-09-18T17:45:22.014002",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/663ecb16-5534-4203-b41b-0e761aefdced.mp3",
+              "FileId": 535540552,
+              "Status": 2,
+              "WordExerciseId": 58691020
+            },
+            {
+              "Id": 170580244,
+              "Word": "das Fahrzeug, die Fahrzeuge",
+              "Translation": "средство передвижения",
+              "DateCreate": "2025-09-18T17:45:22.014001",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/a31b8aa5-843f-4126-9347-a6babe45135c.mp3",
+              "FileId": 535540554,
+              "Status": 2,
+              "WordExerciseId": 58691021
+            },
+            {
+              "Id": 170587909,
+              "Word": "bestimmen, bestimmte, hat bestimmt",
+              "Translation": "определять",
+              "DateCreate": "2025-09-18T17:43:17.842956",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/284ac549-fb67-460f-9cd5-fd324c305b1e.mp3",
+              "FileId": 535543787,
+              "Status": 2,
+              "WordExerciseId": 58694364
+            },
+            {
+              "Id": 170587908,
+              "Word": "die Platzreservierung, die Platzreservierungen",
+              "Translation": "резервирование места",
+              "DateCreate": "2025-09-18T17:43:17.842955",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/daa86f75-d012-4e2a-836d-4228898b343e.mp3",
+              "FileId": 535543791,
+              "Status": 2,
+              "WordExerciseId": 58694365
+            },
+            {
+              "Id": 170587907,
+              "Word": "die Stadtbesichtigung, die Stadtbesichtigungen",
+              "Translation": "осмотр города",
+              "DateCreate": "2025-09-18T17:43:17.842955",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/d39ac157-a0f6-4e5b-85b4-93e529ebfd96.mp3",
+              "FileId": 535543797,
+              "Status": 2,
+              "WordExerciseId": 58694366
+            },
+            {
+              "Id": 170587906,
+              "Word": "der Wohnungsschlüssel, die Wohnungsschlüssel",
+              "Translation": "ключ от квартиры",
+              "DateCreate": "2025-09-18T17:43:17.842955",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/6ca536f0-bee1-4a9c-af43-4039bfb65c92.mp3",
+              "FileId": 535543800,
+              "Status": 2,
+              "WordExerciseId": 58694367
+            },
+            {
+              "Id": 170587905,
+              "Word": "die Wortgrenze, die Wortgrenzen",
+              "Translation": "граница слова",
+              "DateCreate": "2025-09-18T17:43:17.842954",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/1a73494d-27c3-41fc-8519-8069623ad3c7.mp3",
+              "FileId": 535543803,
+              "Status": 2,
+              "WordExerciseId": 58694368
+            },
+            {
+              "Id": 170587914,
+              "Word": "immer (Geh immer geradeaus.)",
+              "Translation": "всегда (Иди всегда/все время прямо.)",
+              "DateCreate": "2025-09-18T17:39:59.143531",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/30b661aa-c495-4324-b6c8-63ab82df1dff.mp3",
+              "FileId": 535543829,
+              "Status": 2,
+              "WordExerciseId": 58693842
+            },
+            {
+              "Id": 170587913,
+              "Word": "die Kreuzung, die Kreuzungen",
+              "Translation": "перекрёсток",
+              "DateCreate": "2025-09-18T17:39:59.14353",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/2ea77bbf-1e08-4d45-8ab4-812550bf8bd8.mp3",
+              "FileId": 535543837,
+              "Status": 2,
+              "WordExerciseId": 58693843
+            },
+            {
+              "Id": 170587912,
+              "Word": "vorbeilgehen, er geht vorbei, ging vorbei, ist vorbeigegangen",
+              "Translation": "проходить мимо (чего-либо, кого-либо)",
+              "DateCreate": "2025-09-18T17:39:59.14353",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/be50d89e-08ab-4be6-bf85-d521f7b314cf.mp3",
+              "FileId": 535543847,
+              "Status": 2,
+              "WordExerciseId": 58693844
+            },
+            {
+              "Id": 170587911,
+              "Word": "einzeichnen, zeichnete ein, hat eingezeichnet",
+              "Translation": "нарисовать, чертить",
+              "DateCreate": "2025-09-18T17:39:59.14353",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/0d3ffe44-947a-429d-bc67-ae1514b846f8.mp3",
+              "FileId": 535543852,
+              "Status": 2,
+              "WordExerciseId": 58693845
+            },
+            {
+              "Id": 170587910,
+              "Word": "die Beschreibung, die Beschreibungen",
+              "Translation": "описание",
+              "DateCreate": "2025-09-18T17:39:59.143529",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/6d103e40-2871-4eee-bf69-214506b0343f.mp3",
+              "FileId": 535543781,
+              "Status": 2,
+              "WordExerciseId": 58694363
+            },
+            {
+              "Id": 170588482,
+              "Word": "es klappt",
+              "Translation": "получается, работает",
+              "PupilMaterialsId": 15956951,
+              "DateCreate": "2025-09-18T17:36:37.667787",
+              "Audio": "https://media.docstorio.com/files/WordAudios/0c89d2eb-cb70-43d0-a09c-25e01a428d34.mp3",
+              "FileId": 494686130,
+              "Status": 2
+            },
+            {
+              "Id": 170588169,
+              "Word": "fassen",
+              "Translation": "summarize",
+              "PupilMaterialsId": 15956951,
+              "DateCreate": "2025-09-18T17:36:37.667787",
+              "Audio": "https://media.docstorio.com/files/WordAudios/2c5d44fb-b770-4e0f-bb75-0b77de31638e.mp3",
+              "FileId": 491067712,
+              "Status": 2
+            },
+            {
+              "Id": 170587917,
+              "Word": "zusammenfassen, fasste zusammen, hat zusammengefasst",
+              "Translation": "обобщать, резюмировать",
+              "DateCreate": "2025-09-18T17:36:37.667787",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/8d56ab59-1162-45b3-94f4-fe9511482290.mp3",
+              "FileId": 535543808,
+              "Status": 2,
+              "WordExerciseId": 58693839
+            },
+            {
+              "Id": 170587916,
+              "Word": "an … vorbei + Dat. (Geh am Kaufhaus vorbei.)",
+              "Translation": "мимо (чего-либо, кого-либо) (Иди мимо торгового центра.)",
+              "DateCreate": "2025-09-18T17:36:37.667787",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/7fbb9ea1-60ce-49ea-af5b-cb2d88108d71.mp3",
+              "FileId": 535543814,
+              "Status": 2,
+              "WordExerciseId": 58693840
+            },
+            {
+              "Id": 170587915,
+              "Word": "gegenüber von + Dat.",
+              "Translation": "напротив (чего-либо, кого-либо)",
+              "DateCreate": "2025-09-18T17:36:37.667786",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/798e4104-41a4-4398-a967-d98f5f9d3d0c.mp3",
+              "FileId": 535543821,
+              "Status": 2,
+              "WordExerciseId": 58693841
+            },
+            {
+              "Id": 169850051,
+              "Word": "der Reifen, die Reifen",
+              "Translation": "шина",
+              "DateCreate": "2025-09-16T08:17:17.451144",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/dfd8ccba-6dae-4221-8be1-fa63d517ff58.mp3",
+              "FileId": 511193294,
+              "Status": 2,
+              "WordExerciseId": 53841352
+            },
+            {
+              "Id": 169850050,
+              "Word": "der Parkplatz, die Parkplätze",
+              "Translation": "парковка",
+              "DateCreate": "2025-09-16T08:17:17.451143",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/5d483ea8-986a-408f-ac98-83699f886230.mp3",
+              "FileId": 511193291,
+              "Status": 2,
+              "WordExerciseId": 53841351
+            },
+            {
+              "Id": 169850049,
+              "Word": "die Panne, die Pannen",
+              "Translation": "поломка",
+              "DateCreate": "2025-09-16T08:17:17.451141",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/737f89da-8f4f-48fb-9cde-de2b1eb1ed41.mp3",
+              "FileId": 511193287,
+              "Status": 2,
+              "WordExerciseId": 53841350
+            },
+            {
+              "Id": 169850048,
+              "Word": "der Motor, die Motoren",
+              "Translation": "двигатель",
+              "DateCreate": "2025-09-16T08:17:17.451141",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/c0b2d991-7edc-43a6-b939-16b38572464d.mp3",
+              "FileId": 511193284,
+              "Status": 2,
+              "WordExerciseId": 53841349
+            },
+            {
+              "Id": 169850047,
+              "Word": "Probleme machen",
+              "Translation": "создавать проблемы",
+              "DateCreate": "2025-09-16T08:17:17.45114",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/d70cfbb8-ef2f-4b91-9a9c-9b29f789ebc2.mp3",
+              "FileId": 511193280,
+              "Status": 2,
+              "WordExerciseId": 53841348
+            },
+            {
+              "Id": 169974827,
+              "Word": "den Anschluss verpassen",
+              "Translation": "не успеть на следующий рейс, поезд, автобус",
+              "DateCreate": "2025-09-14T15:20:08.078644",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/19dc181a-96fc-47f8-a537-06a5c94825ea.mp3",
+              "FileId": 535101752,
+              "Status": 2,
+              "WordExerciseId": 58597355
+            },
+            {
+              "Id": 169972890,
+              "Word": "anhalten",
+              "Translation": "stop",
+              "PupilMaterialsId": 15956951,
+              "DateCreate": "2025-09-14T15:20:08.078643",
+              "Audio": "https://media.docstorio.com/files/WordAudios/85ae92bb-f6e0-40bb-96a1-a3626a8c7619.mp3",
+              "FileId": 468009023,
+              "Status": 2
+            },
+            {
+              "Id": 169972597,
+              "Word": "zu spät kommen",
+              "Translation": "arriving too late",
+              "PupilMaterialsId": 15956951,
+              "DateCreate": "2025-09-14T15:20:08.078643",
+              "Audio": "https://media.docstorio.com/files/WordAudios/0c1127e2-2317-4240-b03f-48c572e36026.mp3",
+              "FileId": 487522081,
+              "Status": 2
+            },
+            {
+              "Id": 169970662,
+              "Word": "ziemlich",
+              "Translation": "довольно",
+              "PupilMaterialsId": 15956951,
+              "DateCreate": "2025-09-14T15:20:08.078643",
+              "Audio": "https://media.docstorio.com/files/WordAudios/d74fbace-f0d3-4566-a08a-cefc6c116ba5.mp3",
+              "FileId": 475824413,
+              "Status": 2
+            },
+            {
+              "Id": 169850052,
+              "Word": "der Stau, die Staus",
+              "Translation": "пробка",
+              "DateCreate": "2025-09-14T15:20:08.078642",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/29bb1882-8527-42e2-8ed4-f23ade80d275.mp3",
+              "FileId": 511193297,
+              "Status": 2,
+              "WordExerciseId": 53841353
+            },
+            {
+              "Id": 169974832,
+              "Word": "rückwärts",
+              "Translation": "назад",
+              "DateCreate": "2025-09-14T15:18:44.507366",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/421f226e-5504-4d44-976e-3d5740789c7b.mp3",
+              "FileId": 535101903,
+              "Status": 2,
+              "WordExerciseId": 53841819
+            },
+            {
+              "Id": 169974831,
+              "Word": "die Tankstelle, die Tankstellen",
+              "Translation": "заправка",
+              "DateCreate": "2025-09-14T15:18:44.507366",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/9c2eb240-8992-4831-aad3-fa0513dba856.mp3",
+              "FileId": 535101906,
+              "Status": 2,
+              "WordExerciseId": 53841820
+            },
+            {
+              "Id": 169974830,
+              "Word": "der TÜV (Sg.)",
+              "Translation": "Союз организаций независимой технической экспертизы",
+              "DateCreate": "2025-09-14T15:18:44.507366",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/7a853e24-27d4-41c4-9d77-2b4b0dbc7906.mp3",
+              "FileId": 535101910,
+              "Status": 2,
+              "WordExerciseId": 53841821
+            },
+            {
+              "Id": 169974829,
+              "Word": "die Versicherung, die Versicherungen",
+              "Translation": "страховка",
+              "DateCreate": "2025-09-14T15:18:44.507366",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/f4261c5c-b5eb-4b87-a18c-9bc135b6fdd8.mp3",
+              "FileId": 535101914,
+              "Status": 2,
+              "WordExerciseId": 53841822
+            },
+            {
+              "Id": 169974828,
+              "Word": "vorwärts",
+              "Translation": "вперед",
+              "DateCreate": "2025-09-14T15:18:44.507365",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/7f5962cc-8ee0-4d3b-a36e-6cf87962a8f9.mp3",
+              "FileId": 535101921,
+              "Status": 2,
+              "WordExerciseId": 53841823
+            },
+            {
+              "Id": 169974837,
+              "Word": "das Kraftfahrzeug (= das Kfz), die Kraftfahrzeuge",
+              "Translation": "машина",
+              "DateCreate": "2025-09-14T15:16:42.724213",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/537c75cb-9ae8-49d3-9111-3c8684e12de5.mp3",
+              "FileId": 535101859,
+              "Status": 2,
+              "WordExerciseId": 53841814
+            },
+            {
+              "Id": 169974836,
+              "Word": "landen, landete, ist gelandet",
+              "Translation": "приземляться",
+              "DateCreate": "2025-09-14T15:16:42.724213",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/05cf6738-d750-4c36-b489-c9bcd7270a84.mp3",
+              "FileId": 535101874,
+              "Status": 2,
+              "WordExerciseId": 53841815
+            },
+            {
+              "Id": 169974835,
+              "Word": "die Monatskarte, die Monatskarten",
+              "Translation": "проездной",
+              "DateCreate": "2025-09-14T15:16:42.724213",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/d89613d8-ab2b-49d2-b821-e97665935476.mp3",
+              "FileId": 535101880,
+              "Status": 2,
+              "WordExerciseId": 53841816
+            },
+            {
+              "Id": 169974834,
+              "Word": "parken, parkte, hat geparkt",
+              "Translation": "парковаться",
+              "DateCreate": "2025-09-14T15:16:42.724213",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/2ad137b6-e7d3-42f5-b43c-ce2cdabcf0c6.mp3",
+              "FileId": 535101886,
+              "Status": 2,
+              "WordExerciseId": 53841817
+            },
+            {
+              "Id": 169974833,
+              "Word": "der Pkw, die Pkws",
+              "Translation": "легковой автомобиль",
+              "DateCreate": "2025-09-14T15:16:42.724212",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/4409b434-e6c0-4755-a047-1c8386345f11.mp3",
+              "FileId": 535101894,
+              "Status": 2,
+              "WordExerciseId": 53841818
+            },
+            {
+              "Id": 169974842,
+              "Word": "bremsen, bremste, hat gebremst",
+              "Translation": "тормозить",
+              "DateCreate": "2025-09-14T15:13:35.001748",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/18db6511-3be6-4bca-aa7b-396b3584472f.mp3",
+              "FileId": 535101810,
+              "Status": 2,
+              "WordExerciseId": 53841809
+            },
+            {
+              "Id": 169974841,
+              "Word": "buchen, buchte, hat gebucht",
+              "Translation": "бронировать",
+              "DateCreate": "2025-09-14T15:13:35.001748",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/b5903126-429f-40c8-b986-23538a7b556b.mp3",
+              "FileId": 535101819,
+              "Status": 2,
+              "WordExerciseId": 53841810
+            },
+            {
+              "Id": 169974840,
+              "Word": "der Diesel",
+              "Translation": "дизель",
+              "DateCreate": "2025-09-14T15:13:35.001748",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/e0109de3-5b54-438e-92d6-50e4ce27d649.mp3",
+              "FileId": 535101825,
+              "Status": 2,
+              "WordExerciseId": 53841811
+            },
+            {
+              "Id": 169974839,
+              "Word": "die Garage, die Garagen",
+              "Translation": "гараж",
+              "DateCreate": "2025-09-14T15:13:35.001748",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/38d37077-e8c6-4532-9cc7-2ef5460ec6aa.mp3",
+              "FileId": 535101836,
+              "Status": 2,
+              "WordExerciseId": 53841812
+            },
+            {
+              "Id": 169974838,
+              "Word": "das (Auto)Kennzeichen, die (Auto)Kennzeichen",
+              "Translation": "номерной знак",
+              "DateCreate": "2025-09-14T15:13:35.001746",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/6e4bb1a5-4e8e-494b-8f8a-274854e26ccf.mp3",
+              "FileId": 535101848,
+              "Status": 2,
+              "WordExerciseId": 53841813
+            }
+          ]
+        },
+        "IsSuccess": true,
+        "Status": 0
+      },
+      "ErrorCode": 0,
+      "RequestId": "153c1cc1-d39d-4093-a2d7-bb37c0a4507d",
+      "ConnectionId": "5728e6cf-1d42-4a5c-bca0-eb7766d0b784",
+      "IsSuccess": true,
+      "ProjectName": "Vocabulary"
+    },
+
+    {
+      "Method": "GetLearnedVocabulary",
+      "Class": "WordWsController",
+      "Value": {
+        "Data": {
+          "Count": 134,
+          "Items": [
+            {
+              "Id": 169974847,
+              "Word": "flexibel",
+              "Translation": "гибкий",
+              "DateCreate": "2025-09-14T15:11:27.462232",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/5a5dc725-039c-419c-a5e5-6f77bba7d0d2.mp3",
+              "FileId": 535101759,
+              "Status": 2,
+              "WordExerciseId": 53841804
+            },
+            {
+              "Id": 169974846,
+              "Word": "tanken, tankte, hat getankt",
+              "Translation": "заправляться",
+              "DateCreate": "2025-09-14T15:11:27.462231",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/364e1d02-199d-4990-933a-d3296f551796.mp3",
+              "FileId": 535101770,
+              "Status": 2,
+              "WordExerciseId": 53841805
+            },
+            {
+              "Id": 169974845,
+              "Word": "abfliegen, flog ab, ist abgeflogen",
+              "Translation": "отправляться",
+              "DateCreate": "2025-09-14T15:11:27.462231",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/c98dbf2b-02db-4a83-a038-68f419718ecc.mp3",
+              "FileId": 535101782,
+              "Status": 2,
+              "WordExerciseId": 53841806
+            },
+            {
+              "Id": 169974844,
+              "Word": "der Abflug, die Abflüge",
+              "Translation": "отправление",
+              "DateCreate": "2025-09-14T15:11:27.462231",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/9fda9646-70f4-4970-8429-510a4e75a708.mp3",
+              "FileId": 535101789,
+              "Status": 2,
+              "WordExerciseId": 53841807
+            },
+            {
+              "Id": 169974843,
+              "Word": "das Benzin (Sg.)",
+              "Translation": "бензин",
+              "DateCreate": "2025-09-14T15:11:27.46223",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/e8ac8895-84d4-4243-bf66-6f5e63cb48e4.mp3",
+              "FileId": 535101799,
+              "Status": 2,
+              "WordExerciseId": 53841808
+            },
+            {
+              "Id": 169979091,
+              "Word": "der Fragesatz, die Fragesätze",
+              "Translation": "вопросительное предложение",
+              "DateCreate": "2025-09-14T15:08:49.520553",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/dbe3134e-ec51-4e04-8345-5255cf030293.mp3",
+              "FileId": 509580538,
+              "Status": 2,
+              "WordExerciseId": 53842772
+            },
+            {
+              "Id": 169979090,
+              "Word": "indirekt (ein indirekter Fragesatz)",
+              "Translation": "косвенный (косвенный вопрос)",
+              "DateCreate": "2025-09-14T15:08:49.520553",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/d4a5ffd6-ecac-4528-8ab1-3c3e97ee1833.mp3",
+              "FileId": 509580542,
+              "Status": 2,
+              "WordExerciseId": 53842773
+            },
+            {
+              "Id": 169979089,
+              "Word": "die Redewiedergabe, die Redewiedergaben",
+              "Translation": "передача речи",
+              "DateCreate": "2025-09-14T15:08:49.520552",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/9c055856-be5b-4bbf-98a8-88a3c6c9c70b.mp3",
+              "FileId": 509580551,
+              "Status": 2,
+              "WordExerciseId": 53842774
+            },
+            {
+              "Id": 169978984,
+              "Word": "jederzeit",
+              "Translation": "Any time",
+              "PupilMaterialsId": 15956951,
+              "DateCreate": "2025-09-14T15:08:49.520552",
+              "Audio": "https://media.docstorio.com/files/WordAudios/614adbf1-4426-4c91-bb46-9a5d2aed1cd3.mp3",
+              "FileId": 493820335,
+              "Status": 2
+            },
+            {
+              "Id": 169978138,
+              "Word": "der Mietwagen",
+              "Translation": "арендованная машина",
+              "PupilMaterialsId": 15956951,
+              "DateCreate": "2025-09-14T15:08:49.520551",
+              "Audio": "https://media.docstorio.com/files/WordAudios/784a377f-275a-46c2-96d9-dacf672444ad.mp3",
+              "FileId": 529544843,
+              "Status": 2
+            },
+            {
+              "Id": 169983153,
+              "Word": "das Bordbistro, die Bordbistros",
+              "Translation": "вагон-ресторан",
+              "DateCreate": "2025-09-14T15:05:24.924499",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/e45fe059-6bde-47fa-86e4-c168b647291e.mp3",
+              "FileId": 509581260,
+              "Status": 2,
+              "WordExerciseId": 53842815
+            },
+            {
+              "Id": 169983152,
+              "Word": "der Kinderwagen, die Kinderwagen",
+              "Translation": "коляска",
+              "DateCreate": "2025-09-14T15:05:24.924499",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/85fa4a9d-64fe-47f4-8a34-e5ff844c966a.mp3",
+              "FileId": 509581264,
+              "Status": 2,
+              "WordExerciseId": 53842816
+            },
+            {
+              "Id": 169982672,
+              "Word": "die Hälfte",
+              "Translation": "half",
+              "PupilMaterialsId": 15956951,
+              "DateCreate": "2025-09-14T15:05:24.924499",
+              "Audio": "https://media.docstorio.com/files/WordAudios/74478688-adf2-468e-a2b4-80aa214a2b5b.mp3",
+              "FileId": 481319243,
+              "Status": 2
+            },
+            {
+              "Id": 169979098,
+              "Word": "ewig",
+              "Translation": "вечно",
+              "DateCreate": "2025-09-14T15:05:24.924499",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/d74c35fb-d741-4f90-99ea-dda279d711ac.mp3",
+              "FileId": 509580501,
+              "Status": 2,
+              "WordExerciseId": 53842765
+            },
+            {
+              "Id": 169979097,
+              "Word": "das Kinderabteil, die Kinderabteile",
+              "Translation": "детское купе, чать",
+              "DateCreate": "2025-09-14T15:05:24.924499",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/e27a2ee4-7eaf-4cd2-bfe0-bcb46ca4460d.mp3",
+              "FileId": 509580502,
+              "Status": 2,
+              "WordExerciseId": 53842766
+            },
+            {
+              "Id": 169979096,
+              "Word": "Mensch! (Mensch, wann geht es weiter?)",
+              "Translation": "Ну вот! (Ну что, когда там поезд тронется?)",
+              "DateCreate": "2025-09-14T15:05:24.924498",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/a69d118e-db59-4fa2-9de1-6955e1d2da15.mp3",
+              "FileId": 509580508,
+              "Status": 2,
+              "WordExerciseId": 53842767
+            },
+            {
+              "Id": 169979095,
+              "Word": "nervig",
+              "Translation": "нервирующий",
+              "DateCreate": "2025-09-14T15:05:24.924498",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/8cff9137-f518-4f9d-976e-a6a1c9f36370.mp3",
+              "FileId": 509580518,
+              "Status": 2,
+              "WordExerciseId": 53842768
+            },
+            {
+              "Id": 169979094,
+              "Word": "ungeduldig",
+              "Translation": "нетерпеливый",
+              "DateCreate": "2025-09-14T15:05:24.924498",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/b276a136-3b5c-4252-8f9a-77464c439fed.mp3",
+              "FileId": 509580523,
+              "Status": 2,
+              "WordExerciseId": 53842769
+            },
+            {
+              "Id": 169979093,
+              "Word": "weiterfahren, fuhr weiter, ist weitergefahren",
+              "Translation": "ехать дальше, продолжить ехать",
+              "DateCreate": "2025-09-14T15:05:24.924498",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/95bbeaaf-b81d-4efa-b723-d302726991f9.mp3",
+              "FileId": 509580530,
+              "Status": 2,
+              "WordExerciseId": 53842770
+            },
+            {
+              "Id": 169979092,
+              "Word": "weitergehen, ging weiter, ist weitergegangen",
+              "Translation": "продолжать идти, тронуться с места",
+              "DateCreate": "2025-09-14T15:05:24.924497",
+              "Audio": "https://media.docstorio.com/files/WordExerciseAudios/7696046e-2f47-492a-a301-620b866a20be.mp3",
+              "FileId": 509580536,
+              "Status": 2,
+              "WordExerciseId": 53842771
+            },
+            {
+              "Id": 168895291,
+              "Word": "lang",
+              "Translation": "длинный",
+              "PupilMaterialsId": 15891017,
+              "DateCreate": "2025-09-08T16:52:15.991379",
+              "Audio": "https://media.docstorio.com/files/WordAudios/258c2756-932d-401e-b143-e1cb8bdb583d.mp3",
+              "FileId": 487799923,
+              "Status": 2
+            },
+            {
+              "Id": 168895288,
+              "Word": "lange",
+              "Translation": "долго",
+              "PupilMaterialsId": 15891017,
+              "DateCreate": "2025-09-08T16:52:15.991378",
+              "Audio": "https://media.docstorio.com/files/WordAudios/e7bac136-b93b-4470-9ab2-648f7ea27447.mp3",
+              "FileId": 481732955,
+              "Status": 2
+            },
+            {
+              "Id": 168894898,
+              "Word": "die Regel",
+              "Translation": "правило",
+              "PupilMaterialsId": 15891017,
+              "DateCreate": "2025-09-08T16:52:15.991378",
+              "Audio": "https://media.docstorio.com/files/WordAudios/68940891-6196-428d-95c1-53a0d907db95.mp3",
+              "FileId": 476411287,
+              "Status": 2
+            },
+            {
+              "Id": 168894022,
+              "Word": "der Teil, die Teile",
+              "Translation": "часть, части",
+              "PupilMaterialsId": 15891017,
+              "DateCreate": "2025-09-08T16:52:15.991378",
+              "Audio": "https://media.docstorio.com/files/WordAudios/bfbd0464-83bc-4e5d-9496-7ae5b4fa8ac5.mp3",
+              "FileId": 514505394,
+              "Status": 2
+            },
+            {
+              "Id": 169014028,
+              "Word": "niedrig",
+              "Translation": "low",
+              "PupilMaterialsId": 15891017,
+              "DateCreate": "2025-09-08T10:16:13.125428",
+              "Audio": "https://media.docstorio.com/files/WordAudios/d642f99c-916a-4a17-8bd4-dbba6cb90d6e.mp3",
+              "FileId": 469958785,
+              "Status": 2
+            },
+            {
+              "Id": 169013456,
+              "Word": "scheußlich",
+              "Translation": "отвратительный",
+              "PupilMaterialsId": 15891017,
+              "DateCreate": "2025-09-08T10:16:13.125428",
+              "Audio": "https://media.docstorio.com/files/WordAudios/0cd92569-8237-401e-84a0-484190ab3efc.mp3",
+              "FileId": 489521902,
+              "Status": 2
+            },
+            {
+              "Id": 168901535,
+              "Word": "die Weste, die Westen",
+              "Translation": "жилет, жилетки",
+              "PupilMaterialsId": 15891017,
+              "DateCreate": "2025-09-08T10:16:13.125428",
+              "Audio": "https://media.docstorio.com/files/WordAudios/ac57f141-cf06-4349-a7f7-e484c24dcd81.mp3",
+              "FileId": 532466679,
+              "Status": 2
+            },
+            {
+              "Id": 168900121,
+              "Word": "der Gedanke, die Gedanken",
+              "Translation": "мысль, мысли",
+              "PupilMaterialsId": 15891017,
+              "DateCreate": "2025-09-08T10:16:13.125427",
+              "Audio": "https://media.docstorio.com/files/WordAudios/36162c4c-ff4f-4b04-b9a9-faaabbe8a66e.mp3",
+              "FileId": 514743935,
+              "Status": 2
+            },
+            {
+              "Id": 168900018,
+              "Word": "erledigen, erledigte, hat erledigt",
+              "Translation": "сделать, выполнить",
+              "PupilMaterialsId": 15891017,
+              "DateCreate": "2025-09-08T10:16:13.125426",
+              "Audio": "https://media.docstorio.com/files/WordAudios/61ec9b40-4236-4bbb-888c-ce7098215676.mp3",
+              "FileId": 493202383,
+              "Status": 2
+            },
+            {
+              "Id": 169014236,
+              "Word": "langsam",
+              "Translation": "slow",
+              "PupilMaterialsId": 15891017,
+              "DateCreate": "2025-09-06T21:00:58.593732",
+              "Audio": "https://media.docstorio.com/files/WordAudios/128a6ce6-81f9-48f3-bcd3-177cd3972645.mp3",
+              "FileId": 482028266,
+              "Status": 2
+            },
+            {
+              "Id": 169014209,
+              "Word": "leise",
+              "Translation": "quietly",
+              "PupilMaterialsId": 15891017,
+              "DateCreate": "2025-09-06T21:00:58.593732",
+              "Audio": "https://media.docstorio.com/files/WordAudios/ff694641-68dd-4ecb-81d9-0ef443d3241f.mp3",
+              "FileId": 490461322,
+              "Status": 2
+            },
+            {
+              "Id": 169014153,
+              "Word": "am leichtesten",
+              "Translation": "the easiest\n",
+              "PupilMaterialsId": 15891017,
+              "DateCreate": "2025-09-06T21:00:58.593732",
+              "Audio": "https://media.docstorio.com/files/WordAudios/263ca11c-73a2-4a09-b961-aadd5505359b.mp3",
+              "FileId": 532770387,
+              "Status": 2
+            },
+            {
+              "Id": 169014072,
+              "Word": "schwer",
+              "Translation": "hard",
+              "PupilMaterialsId": 15891017,
+              "DateCreate": "2025-09-06T21:00:58.593732",
+              "Audio": "https://media.docstorio.com/files/WordAudios/625e2b8d-534f-4a18-aae3-f73f60440bc8.mp3",
+              "FileId": 332692845,
+              "Status": 2
+            },
+            {
+              "Id": 169014071,
+              "Word": "schlecht",
+              "Translation": "bad",
+              "PupilMaterialsId": 15891017,
+              "DateCreate": "2025-09-06T21:00:58.593731",
+              "Audio": "https://media.docstorio.com/files/WordAudios/b8437d79-48a5-4941-823a-b7d9f58fe949.mp3",
+              "FileId": 409351761,
+              "Status": 2
+            }
+          ]
+        },
+        "IsSuccess": true,
+        "Status": 0
+      },
+      "ErrorCode": 0,
+      "RequestId": "61ad068f-e542-475a-8088-901a05ed2903",
+      "ConnectionId": "5728e6cf-1d42-4a5c-bca0-eb7766d0b784",
+      "IsSuccess": true,
+      "ProjectName": "Vocabulary"
+    }
+  ]
+}
